@@ -1,0 +1,6 @@
+logs/
+data/last_raw.txt
+data/writer_last_raw.txt
+.DS_Store
+__pycache__/
+*.pyc

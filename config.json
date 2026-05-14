@@ -1,0 +1,39 @@
+{
+  "site": {
+    "name": "AI Lab Daily",
+    "tagline": "Claude / ChatGPT / Cursor — Daily Practical Guides",
+    "base_url": "https://nayo126.github.io/eigo-ai-lab",
+    "author": "AI Lab Daily Editorial",
+    "lang": "en",
+    "description": "Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.",
+    "ga_id": "",
+    "search_console_token": ""
+  },
+  "claude_cli": "claude",
+  "sources": {
+    "reddit_subs": ["ClaudeAI", "ChatGPT", "OpenAI", "LocalLLaMA", "singularity", "cursor", "perplexity_ai"],
+    "reddit_min_score": 80,
+    "reddit_max_age_hours": 48,
+    "hn_top_count": 60,
+    "hn_keywords": ["claude", "anthropic", "chatgpt", "gpt-5", "openai", "gemini", "cursor", "llm", "ai agent", "rag", "midjourney", "sora", "perplexity"]
+  },
+  "generation": {
+    "articles_per_run": 3,
+    "min_word_count": 600,
+    "max_word_count": 1500,
+    "tone": "practical, US/UK indie-hacker voice, factual",
+    "must_include_sections": ["TL;DR", "What happened", "Why it matters", "Try it yourself"]
+  },
+  "monetization": {
+    "_strategy": "Amazon Associates US (親) + 楽天 fallback + Ezoic future",
+    "monetization_ids_file": "/Users/tsukaking/MONETIZATION_IDS.json",
+    "amazon_associate_us_tag": "TODO_US",
+    "primary_currency": "USD"
+  },
+  "deploy": {
+    "github_user": "nayo126",
+    "github_repo": "eigo-ai-lab",
+    "branch": "main"
+  },
+  "_lang_override": "en"
+}

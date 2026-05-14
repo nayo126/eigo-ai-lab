@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nayo126.github.io/ai-news-jp/sitemap.xml
