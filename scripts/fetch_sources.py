@@ -24,10 +24,20 @@ UAS = [
 ]
 
 RSS_FEEDS = {
-    "anthropic_news": "https://www.anthropic.com/news/rss.xml",
     "openai_blog": "https://openai.com/blog/rss.xml",
     "google_ai_blog": "https://blog.google/technology/ai/rss/",
     "huggingface_blog": "https://huggingface.co/blog/feed.xml",
+    "venturebeat_ai": "https://venturebeat.com/category/ai/feed/",
+    "theverge_ai": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "marktechpost": "https://www.marktechpost.com/feed/",
+    "aibusiness": "https://aibusiness.com/rss.xml",
+    "smol_ai": "https://buttondown.email/ainews/rss",
+    "algorithmic_bridge": "https://thealgorithmicbridge.substack.com/feed",
+    "simonwillison": "https://simonwillison.net/atom/everything/",
+    "hn_ai_search": "https://hnrss.org/newest?q=AI",
+    "towards_data_science": "https://medium.com/feed/towards-data-science",
+    "lobsters_ai": "https://lobste.rs/t/ai.rss",
 }
 
 
