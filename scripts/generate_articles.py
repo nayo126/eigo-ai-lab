@@ -65,8 +65,17 @@ Output **exactly one JSON object** - no prose, no code fences.
 
 def call_claude(prompt: str, retries: int = 2) -> str:
     import sys
+    # prefer shared lib, fall back to local
+    sys.path.insert(0, "/Users/tsukaking/.claude/lib")
     sys.path.insert(0, str(Path(__file__).parent))
-    from rate_limit_helper import looks_like_rate_limit, mark_rate_limited, mark_clear, is_currently_blocked
+    try:
+        from rate_limit_helper import (
+            looks_like_rate_limit, looks_like_native_binary_missing,
+            mark_rate_limited, mark_clear, is_currently_blocked,
+        )
+    except ImportError:
+        from rate_limit_helper import looks_like_rate_limit, mark_rate_limited, mark_clear, is_currently_blocked
+        looks_like_native_binary_missing = lambda t: False
 
     if is_currently_blocked("claude_cli"):
         log("claude_cli is currently rate-limited; skipping (watchdog will retry)")
@@ -84,6 +93,10 @@ def call_claude(prompt: str, retries: int = 2) -> str:
                 return r.stdout.strip()
             combined = (r.stderr or "") + " " + (r.stdout or "")
             log(f"claude attempt {attempt+1} failed rc={r.returncode} err={combined[:300]}")
+            if looks_like_native_binary_missing(combined):
+                mark_rate_limited("claude_cli", combined[:300], reason="native_missing") if hasattr(mark_rate_limited, "__call__") else None
+                log("claude native binary missing -> state file written, abort run")
+                return ""
             if looks_like_rate_limit(combined):
                 mark_rate_limited("claude_cli", combined[:300])
                 log("rate limit detected -> state file written, abort run")
