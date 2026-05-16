@@ -1,50 +1,70 @@
 {
-  "fetched_at": "2026-05-15T20:16:30.082406+00:00",
-  "count": 165,
+  "fetched_at": "2026-05-16T08:16:30.251774+00:00",
+  "count": 156,
   "items": [
     {
       "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tdsgh2",
-      "title": "left or right?",
+      "id": "reddit-1tec3bq",
+      "title": "Replaced (Made with ChatGPT Image 2.0 &amp; Seedance 2.0)",
       "body": "",
-      "score": 1796,
-      "comments": 204,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tdsgh2/left_or_right/",
-      "age_hours": 9.6
+      "score": 772,
+      "comments": 221,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tec3bq/replaced_made_with_chatgpt_image_20_seedance_20/",
+      "age_hours": 9.2
     },
     {
       "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tdyrdv",
-      "title": "Claude's first day at Dunder Mifflin",
+      "id": "reddit-1te033e",
+      "title": "Bro's been editing for almost an hour.",
       "body": "",
-      "score": 1117,
-      "comments": 69,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tdyrdv/claudes_first_day_at_dunder_mifflin/",
-      "age_hours": 5.3
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1te0mhh",
-      "title": "Claude is telling users to go to sleep mid-session and nobody, including Anthropic, seems to fully understand why it keeps doing it",
-      "body": "Anthropic’s Claude is telling people to go to sleep and users can’t figure out why.\n\nA quick [scan of Reddit](https://www.reddit.com/r/ClaudeAI/comments/1ruryxo/claude_decided_i_need_a_bedtime_apparently/) reveals that hundreds of people have had the same issue dating back months—and as recently as Wednesday. Claude’s sleep demands are varied and, often, quirky variations of the same message.\n\nTo one user it may write a simple “get some rest,” yet for others its messages are [more personalized](https://www.reddit.com/r/claudexplorers/comments/1rugx4b/opus_obsessed_about_sending_me_to_sleep/) and empathetic. Oftentimes, Claude will repeat the message multiple times.\n\n“Now go to sleep again. *Again*. For the THIRD time tonight…” it [replied](https://www.reddit.com/r/claudexplorers/comments/1rt9i66/claude_escalating_bedtime/#lightbox) to a person with the Reddit username, angie\\_akhila.\n\nSome users have said they find Claude’s late night rest reminders “thoughtful,” while others have said they’re annoying, given Claude often gets the time wrong, anyway. \n\n“It often does it at like 8:30 in the morning. Tells me to go get some rest and we’ll pick back up in the morning,” [wrote](https://www.reddit.com/r/ClaudeCode/comments/1tcnpua/anyone_else_think_its_super_obnoxious_how_often/) one user on Reddit. \n\nRead more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/05/14/why-is-claude-telling-users-to-go-to-sleep-anthropic-ai-sentient/?utm\\_source=reddit/](https://fortune.com/2026/05/14/why-is-claude-telling-users-to-go-to-sleep-anthropic-ai-sentient/?utm_source=reddit/)",
-      "score": 602,
-      "comments": 132,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1te0mhh/claude_is_telling_users_to_go_to_sleep_midsession/",
-      "age_hours": 4.2
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tdvf4l",
-      "title": "Out of boredom, I asked ChatGPT to design a fictional sci-fi movie poster that could be directed by certain directors. Let’s just say they do not disappoint with Christopher Nolan.",
-      "body": "",
-      "score": 527,
-      "comments": 73,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tdvf4l/out_of_boredom_i_asked_chatgpt_to_design_a/",
-      "age_hours": 7.4
+      "score": 676,
+      "comments": 60,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1te033e/bros_been_editing_for_almost_an_hour/",
+      "age_hours": 16.5
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-9b529217",
+      "id": "openai_blog-6e14a3ef",
+      "title": "How sales teams use Codex",
+      "body": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-fb07acad",
+      "title": "How business operations teams use Codex",
+      "body": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-bc8b9e9b",
+      "title": "How data science teams use Codex",
+      "body": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-43bffa89",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "body": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/databricks",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-b82644ab",
       "title": "A new personal finance experience in ChatGPT",
       "body": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "score": null,
@@ -54,7 +74,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-3e3e6c23",
+      "id": "openai_blog-10b0bac6",
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
       "body": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "score": null,
@@ -64,7 +84,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-a6e41004",
+      "id": "openai_blog-3923144e",
       "title": "Work with Codex from anywhere",
       "body": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
       "score": null,
@@ -74,7 +94,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-8d226f16",
+      "id": "openai_blog-47ce9246",
       "title": "Helping ChatGPT better recognize context in sensitive conversations",
       "body": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
       "score": null,
@@ -84,7 +104,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-91ae68e3",
+      "id": "openai_blog-33243f56",
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "body": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "score": null,
@@ -94,7 +114,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-4c38fafb",
+      "id": "openai_blog-9a4542a8",
       "title": "Our response to the TanStack npm supply chain attack",
       "body": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "score": null,
@@ -103,48 +123,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-fae450fc",
-      "title": "How finance teams use Codex",
-      "body": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-f5f836cb",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-b3a34cb8",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/autoscout24",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-2856ff86",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/nvidia",
-      "age_hours": null
-    },
-    {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-3e35de2e",
+      "id": "google_ai_blog-24ed9207",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\">This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
       "score": null,
@@ -154,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-3c1ee145",
+      "id": "google_ai_blog-1d3c3aff",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "score": null,
@@ -164,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f6f9392f",
+      "id": "google_ai_blog-2e95780",
       "title": "5 gardening tips you can try right in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "score": null,
@@ -174,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-c567b46e",
+      "id": "google_ai_blog-b096dfed",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "score": null,
@@ -184,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-46faa20c",
+      "id": "google_ai_blog-74872241",
       "title": "The latest AI news we announced in April 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
       "score": null,
@@ -194,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-412d3b3b",
+      "id": "google_ai_blog-5ed39b65",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\">Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "score": null,
@@ -204,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-3dbab428",
+      "id": "google_ai_blog-45591625",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "score": null,
@@ -214,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-b63c63b7",
+      "id": "google_ai_blog-82e758d8",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "score": null,
@@ -224,7 +204,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-a6f4291a",
+      "id": "google_ai_blog-41bda356",
       "title": "8 Gemini tips for organizing your space (and life)",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "score": null,
@@ -234,7 +214,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-5fd022ff",
+      "id": "google_ai_blog-d2673817",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": null,
@@ -244,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-d54026a5",
+      "id": "huggingface_blog-9a5cebd6",
       "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
       "body": "",
       "score": null,
@@ -254,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-de9c58af",
+      "id": "huggingface_blog-3b1cd174",
       "title": "Unlocking asynchronicity in continuous batching",
       "body": "",
       "score": null,
@@ -264,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-857206a",
+      "id": "huggingface_blog-dcf6e979",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -274,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-9929662d",
+      "id": "huggingface_blog-cc86e00c",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "body": "",
       "score": null,
@@ -284,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-2d4ce5a9",
+      "id": "huggingface_blog-46132454",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "body": "",
       "score": null,
@@ -294,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-82ab6f64",
+      "id": "huggingface_blog-be0d6f98",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "body": "",
       "score": null,
@@ -304,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-21311074",
+      "id": "huggingface_blog-477d5d70",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "body": "",
       "score": null,
@@ -314,7 +294,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-58b07164",
+      "id": "huggingface_blog-4d79f3a3",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "body": "",
       "score": null,
@@ -324,7 +304,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-25a2b162",
+      "id": "huggingface_blog-968254cb",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "body": "",
       "score": null,
@@ -334,7 +314,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-60356cc3",
+      "id": "huggingface_blog-de136d8a",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "body": "",
       "score": null,
@@ -344,7 +324,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-192e739b",
+      "id": "venturebeat_ai-ed36145",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "body": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>, <a href=\"https://www.redpoint.com/\">Redpoint</a>, and <a href=\"https://www.unusual.vc/\">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=\"https://aws.amazon.com/\">Amazon Web Services</a> and <a href=\"https://cloud.google.com/\">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=\"https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/\">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable ",
       "score": null,
@@ -354,7 +334,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-312e8642",
+      "id": "venturebeat_ai-92fdc0a8",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "body": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for seriou",
       "score": null,
@@ -364,7 +344,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-7114f3f8",
+      "id": "venturebeat_ai-599bda6d",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "body": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displaying what looked like gibberish: five strings of random numbers.</p><p>The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.</p><p>That unconventional approach has now attracted $69 million in Series B funding, led by <a href=\"https://www.ribbitcap.com/\">Ribbit Capital</a> with participation from <a href=\"https://www.evantic.ai/\">Evantic</a> and existing investors <a href=\"https://sequoiacap.com/\">Sequoia Capital</a>, <a href=\"https://www.conviction.com/\">Conviction</a>, and <a href=\"https://pear.vc/\">Pear VC</a>. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the company has grown annualized revenue by 15x to eight figures and conducted over one million AI-powered interviews.</p><div></div><p>&quot;When you obsess over customers, everything else follows,&quot; Wahlforss said in an interview with VentureBeat. &quot;Teams that use Listen bring the customer into every decision, from marketing to product, and when the customer is delighted, everyone is.&quot;</p><h2><b>Why traditional market research is broken, and what Listen Labs is building to fix it</b></h2><p>Listen&#x27;s <a href=\"https://listenlabs.ai/role/agencies\">AI researcher",
       "score": null,
@@ -374,7 +354,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-6d30d3cd",
+      "id": "venturebeat_ai-7a007f1",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "body": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a href=\"https://slack.com/pricing/businessplus\">Business+</a> and <a href=\"https://slack.com/enterprise\">Enterprise+</a> customers, is Salesforce&#x27;s most aggressive move yet to position Slack at the center of the emerging &quot;agentic AI&quot; movement — where software agents work alongside humans to complete complex tasks. The launch comes as Salesforce attempts to convince investors that artificial intelligence will bolster its products rather than render them obsolete.</p><p>&quot;Slackbot isn&#x27;t just another copilot or AI assistant,&quot; said <a href=\"https://www.salesforce.com/company/parker-harris-bio/\">Parker Harris</a>, Salesforce co-founder and Slack&#x27;s chief technology officer, in an exclusive interview with Salesforce. &quot;It&#x27;s the front door to the agentic enterprise, powered by Salesforce.&quot;</p><h2><b>From tricycle to Porsche: Salesforce rebuilt Slackbot from the ground up</b></h2><p>Harris was blunt about what distinguishes the new Slackbot from its predecessor: &quot;The old Slackbot was, you know, a little tricycle, and the new Slackbot is like, you know, a Porsche.&quot;</p><p>The original Slackbot, which has existed since Slack&#x27;s early days, performed basic algorithmic tasks — reminding users to add colleagues to documents, suggesting channel archives, and delivering simple notifications. The new version runs on an entirely different architecture built around a large language model and sophisticated search capabilities that can a",
       "score": null,
@@ -384,7 +364,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-dd324804",
+      "id": "venturebeat_ai-324c5036",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "body": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.</p><p>The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with <a href=\"https://openai.com/\">OpenAI</a> and <a href=\"https://gemini.google.com/app\">Google</a> in conversational AI, but with <a href=\"https://copilot.microsoft.com/\">Microsoft&#x27;s Copilot</a> in the burgeoning market for AI-powered productivity tools.</p><p>&quot;Cowork lets you complete non-technical tasks much like how developers use Claude Code,&quot; the <a href=\"https://x.com/claudeai/status/2010805682434666759?s=20\">company announced</a> via its official Claude account on X. The feature arrives as a research preview available exclusively to <a href=\"https://support.claude.com/en/articles/11014257-about-claude-s-max-plan-usage\">Claude Max subscribers</a> — Anthropic&#x27;s power-user tier priced between $100 and $200 per month — through the macOS desktop application.</p><p>For the past year, the industry narrative has focused on large language models that can write poetry or debug code. With <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a>, Anthropic is betting that the real enterprise value lies in an AI that can open a folder, read a messy pile of receipts, and generate a structured expense report without human hand-holding.</p><div></div><h2><b>How developers using a coding tool for vacation research inspired Anthropic&#x27;s latest product</b></h2><p>The genesis of <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> l",
       "score": null,
@@ -394,7 +374,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-2a72748a",
+      "id": "venturebeat_ai-bcaed46c",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "body": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-1",
       "score": null,
@@ -404,7 +384,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-9f378b3b",
+      "id": "venturebeat_ai-ecb2528a",
       "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
       "body": "<p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissecting a <a href=\"https://x.com/bcherny/status/2007179832300581177\">thread on X</a> from <a href=\"https://x.com/bcherny\">Boris Cherny</a>, the creator and head of <a href=\"https://code.claude.com/docs/en/overview\">Claude Code</a> at <a href=\"https://www.anthropic.com/\">Anthropic</a>. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.</p><div></div><p>&quot;If you&#x27;re not reading the Claude Code best practices straight from its creator, you&#x27;re behind as a programmer,&quot; wrote <a href=\"https://x.com/jefftangx\">Jeff Tang</a>, a prominent voice in the developer community. <a href=\"https://x.com/KyleMcnease/status/2007555584724480338\">Kyle McNease</a>, another industry observer, went further, declaring that with Cherny&#x27;s &quot;game-changing updates,&quot; Anthropic is &quot;on fire,&quot; potentially facing &quot;their ChatGPT moment.&quot;</p><p>The excitement stems from a paradox: Cherny&#x27;s workflow is surprisingly simple, yet it allows a single human to operate with the output capacity of a small engineering department. As one user noted on X after implementing Cherny&#x27;s setup, the experience &quot;<a href=\"https://x.com/mtwichan\">feels more like Starcraft</a>&quot; than traditional coding — a shift from typing syntax to commanding autonomous units.</p><p>Here is an analysis of the workflow that is reshaping how software gets built, straight from the architect himself. </p><h2><b>How running five AI agents at once turns coding into a real-time strategy game</b></h2><p>The most striking revelation from Cherny&#x27;s disclosure is that he does not code in a linear fashion. In the traditional &quot;<",
       "score": null,
@@ -414,7 +394,27 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-76f7ccf4",
+      "id": "theverge_ai-8889197f",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "body": "",
+      "score": null,
+      "comments": null,
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "age_hours": null
+    },
+    {
+      "source": "rss/theverge_ai",
+      "id": "theverge_ai-e3ee7ed0",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "body": "",
+      "score": null,
+      "comments": null,
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "age_hours": null
+    },
+    {
+      "source": "rss/theverge_ai",
+      "id": "theverge_ai-dec86823",
       "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "body": "",
       "score": null,
@@ -424,7 +424,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-8d38c998",
+      "id": "theverge_ai-cefe70ea",
       "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
       "body": "",
       "score": null,
@@ -434,7 +434,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-362da86",
+      "id": "theverge_ai-3e94b8e8",
       "title": "Does Trump Mobile know how many stripes are on the American flag?",
       "body": "",
       "score": null,
@@ -444,7 +444,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-31fc7da5",
+      "id": "theverge_ai-7746e5e6",
       "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
       "body": "",
       "score": null,
@@ -454,7 +454,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-ca6d3b48",
+      "id": "theverge_ai-a11184a1",
       "title": "OpenAI now wants ChatGPT to access your bank accounts",
       "body": "",
       "score": null,
@@ -464,7 +464,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-c061ac63",
+      "id": "theverge_ai-1e8abbee",
       "title": "The promises and pitfalls of personalized health",
       "body": "",
       "score": null,
@@ -474,7 +474,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-4d610f55",
+      "id": "theverge_ai-d2dcc0f3",
       "title": "AI research papers are getting better, and it’s a big problem for scientists",
       "body": "",
       "score": null,
@@ -484,7 +484,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-17ee9d45",
+      "id": "theverge_ai-93c2c05c",
       "title": "Closing time",
       "body": "",
       "score": null,
@@ -493,28 +493,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/theverge_ai",
-      "id": "theverge_ai-34ff048f",
-      "title": "Behold, the Elon Musk jackass trophy",
-      "body": "",
-      "score": null,
-      "comments": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "age_hours": null
-    },
-    {
-      "source": "rss/theverge_ai",
-      "id": "theverge_ai-632716e0",
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "body": "",
-      "score": null,
-      "comments": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "age_hours": null
-    },
-    {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-56886042",
+      "id": "techcrunch_ai-2d7e119f",
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
       "body": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generation&#160;of founders&#160;already spinning out [&#8230;]",
       "score": null,
@@ -524,7 +504,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-f057dd5c",
+      "id": "techcrunch_ai-7f72612e",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "body": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
       "score": null,
@@ -534,7 +514,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-206528da",
+      "id": "techcrunch_ai-2508e01b",
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "body": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
       "score": null,
@@ -544,7 +524,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-3404fed3",
+      "id": "techcrunch_ai-1c83b7a8",
       "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
       "body": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
       "score": null,
@@ -554,7 +534,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-f22f1817",
+      "id": "techcrunch_ai-ea008632",
       "title": "Osaurus brings both local and cloud AI models to your Mac",
       "body": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
       "score": null,
@@ -564,7 +544,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-ef060cae",
+      "id": "techcrunch_ai-91beb81e",
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "body": "Here's what the biggest tech court case of the year is all about.",
       "score": null,
@@ -574,7 +554,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-a42c8fc",
+      "id": "techcrunch_ai-ccaa6a0d",
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
       "body": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
       "score": null,
@@ -584,7 +564,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-3d6aee65",
+      "id": "techcrunch_ai-f2578ccc",
       "title": "OpenAI says Codex is coming to your phone",
       "body": "The update gives users enhanced flexibility over how they can manage their workflows.",
       "score": null,
@@ -594,7 +574,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-c1966d1a",
+      "id": "techcrunch_ai-d347058e",
       "title": "What happens when AI starts building itself?",
       "body": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
       "score": null,
@@ -604,7 +584,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-3000782",
+      "id": "techcrunch_ai-f064c41c",
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
       "body": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
       "score": null,
@@ -614,7 +594,37 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-55d1c824",
+      "id": "marktechpost-1fe25844",
+      "title": "NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU",
+      "body": "<p>Researchers from NVIDIA introduce SANA-WM, an open-source camera-controlled world model that generates 60-second, 720p videos with precise 6-DoF camera control — trained on 64 H100 GPUs and deployable on a single RTX 5090.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/\">NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+      "score": null,
+      "comments": null,
+      "url": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/marktechpost",
+      "id": "marktechpost-5969af27",
+      "title": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
+      "body": "<p>In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/\">How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+      "score": null,
+      "comments": null,
+      "url": "https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/marktechpost",
+      "id": "marktechpost-7b8f891d",
+      "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
+      "body": "<p>In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/\">How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+      "score": null,
+      "comments": null,
+      "url": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/marktechpost",
+      "id": "marktechpost-13ed7204",
       "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
       "body": "<p>Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound — a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/\">Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -624,7 +634,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-3dc5dc0f",
+      "id": "marktechpost-9c50c4fd",
       "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
       "body": "<p>The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/\">Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -634,7 +644,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-50fe47eb",
+      "id": "marktechpost-ff1317c1",
       "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
       "body": "<p>The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6× increase in language coverage — all while keeping the inference contract unchanged for existing integrations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/\">Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -644,7 +654,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-ca0cda2c",
+      "id": "marktechpost-c16c277b",
       "title": "How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs",
       "body": "<p>In this tutorial, we build an advanced Django-Unfold admin dashboard. We start by installing Django, Django-Unfold, and the required dependencies, then we create a fresh Django project with a shop application. We configure Unfold with a modern admin theme, custom sidebar navigation, dashboard callbacks, product badges, tabs, filters, actions, and a custom admin homepage. We [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/how-to-build-a-django-unfold-admin-dashboard-with-custom-models-filters-actions-and-kpis/\">How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -654,7 +664,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-50912f0c",
+      "id": "marktechpost-e595a91b",
       "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
       "body": "<p>Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/\">Poetiq&#8217;s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -664,7 +674,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-8e61a7e7",
+      "id": "marktechpost-29ef1c50",
       "title": "A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling",
       "body": "<p>In this tutorial, we delve into CuPy as a powerful GPU-accelerated alternative to NumPy for high-performance numerical computing in Python. We start by inspecting the available CUDA device, checking the CuPy version, runtime details, GPU memory, and compute capability so that we understand the hardware environment before running heavy computations. Then, we compare NumPy and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/\">A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -674,7 +684,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-f61a4426",
+      "id": "marktechpost-4779d284",
       "title": "Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated",
       "body": "<p>Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack — @cline/shared, @cline/llms, @cline/agents, and @cline/core — with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthropic's published 69.4% for Claude Code on the same model. Install via npm install @cline/sdk. Requires Node.js 22+.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/\">Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -683,38 +693,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-3f96d143",
-      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
-      "body": "<p>Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/\">Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-403713a8",
-      "title": "How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection",
-      "body": "<p>In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/\">How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-9343bf9c",
-      "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
-      "body": "<p>63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/\">Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
-      "age_hours": null
-    },
-    {
       "source": "rss/aibusiness",
-      "id": "aibusiness-bbcf72d7",
+      "id": "aibusiness-3364b307",
       "title": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
       "body": "As AI technology becomes more established, enterprises are struggling to secure increasingly autonomous and interconnected systems.",
       "score": null,
@@ -724,7 +704,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-96fd64a9",
+      "id": "aibusiness-2fe40cfb",
       "title": "Cerebras Must Overcome Obstacles to Maintain IPO Value",
       "body": "Cerebras’ public launch is a strategic advantage for the vendor, but it will have to overcome challenges to maintain its high value.",
       "score": null,
@@ -734,7 +714,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-8135d119",
+      "id": "aibusiness-aeebf355",
       "title": "Anthropic and PwC in New Push to Embed Claude in Corporate World",
       "body": "With the deal, the companies are seeking to expand Claude’s position as the enterprise AI model of choice.",
       "score": null,
@@ -744,7 +724,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-de0b7241",
+      "id": "aibusiness-f7fa4cd",
       "title": "Rivian Spinoff Raises $400M for Industrial Robots",
       "body": "The vendor will use the funds to scale deployment of Mind’s AI-powered robots in live manufacturing environments.",
       "score": null,
@@ -754,7 +734,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-b97abc6",
+      "id": "aibusiness-ff9a9e53",
       "title": "Nvidia Taps British AI Startup to Build ‘Next Frontier’ of AI",
       "body": "The semiconductor giant said it will work with Ineffable Intelligence to build the model training infrastructure.",
       "score": null,
@@ -764,7 +744,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-b02546a0",
+      "id": "aibusiness-dc049c48",
       "title": "Anthropic Targets Small Businesses With Latest Claude Release",
       "body": "The generative AI vendor's latest adaptation of its ubiquitous Claude model is aimed at a new market.",
       "score": null,
@@ -774,7 +754,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-44ed66f9",
+      "id": "aibusiness-abcdd949",
       "title": "Anthropic Further Targets Legal With New Connectors",
       "body": "The connectors allow the vendor to demonstrate that its LLMs can also deliver business value in other industries.",
       "score": null,
@@ -784,7 +764,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-e232970a",
+      "id": "aibusiness-4a37ebc3",
       "title": "Bosch, Researchers Develop AI for Humanoid Dexterity",
       "body": "The teams say the new “touch dreaming” system can boost humanoid robot success rates by 90.9%.",
       "score": null,
@@ -794,12 +774,32 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-471a6b21",
+      "id": "aibusiness-ee946fba",
       "title": "OpenAI Launches Daybreak, a New Initiative to Challenge Glasswing",
       "body": "While Daybreak is a step toward more effective AI cybersecurity, more still needs to be done in the security arena, as models often create new vulnerabilities that leave enterprises exposed.",
       "score": null,
       "comments": null,
       "url": "https://aibusiness.com/cybersecurity/openai-launches-daybreak-new-initiative-challenge-glasswing",
+      "age_hours": null
+    },
+    {
+      "source": "rss/aibusiness",
+      "id": "aibusiness-401e05e1",
+      "title": "Startup That Aims to Widen Access to Compute Draws $1.3B",
+      "body": "The vendor’s AI power framework is based on the concept of the electrical grid.",
+      "score": null,
+      "comments": null,
+      "url": "https://aibusiness.com/data-centers/startup-that-aims-widen-access-compute-draws-1-3b",
+      "age_hours": null
+    },
+    {
+      "source": "rss/smol_ai",
+      "id": "smol_ai-3eaf1453",
+      "title": "[AINews] We have moved!! Please help us move!",
+      "body": "<p>Hi Friends,</p>\n<p>For a little over a year, AINews has been functioning in MVP mode on <strong><a href=\"https://buttondown.com\" target=\"_blank\">Buttondown</a></strong>, which is an excellent email service by <strong>Justin Duke</strong>. We went far, far longer on it than we ever thought possible, including having our crappy signup page featured on Lex Fridman thanks to a <a href=\"https://x.com/swyx/status/1826349521041064012\" target=\"_blank\">@levelsio shoutout</a>!</p>\n<p>However, we wanted to improve our signup, deliverability, and web experience, and so have now moved to a custom Resend + Vercel + SmolTalk (coming soon™) stack. We'll be talking more about it at the next AI Engineer conference in SF in June.</p>\n<p>anyway, please mosey on over to <a href=\"https://news.smol.ai/\" target=\"_blank\">https://news.smol.ai/</a> where you'll immediately see the win of fast, faceted search!</p>\n<p class=\"empty-line\" style=\"height:16px; margin:0px !important;\"></p>\n<p>and <strong>look out for emails from \"news@smol.ai\" going forward</strong> - we have less email authority on that one so if you can <strong>pick us out of spam hell</strong> and drop us in the blessed IMPORTANT folder we'd be very grateful. </p>\n<p>More updates are coming! We are almost done paying down tech debt.</p>\n<p>—- your friends at smol.ai </p>",
+      "score": null,
+      "comments": null,
+      "url": "https://buttondown.com/ainews/archive/ainews-we-have-moved-please-help-us-move/",
       "age_hours": null
     }
   ]
