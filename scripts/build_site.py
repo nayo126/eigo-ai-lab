@@ -120,6 +120,9 @@ def parse_post(path: Path) -> dict | None:
     front["body_html"] = md_to_html(body)
     front["body_md"] = body
     front["filename"] = path.name
+    # Ensure slug exists — derive from filename if missing
+    if "slug" not in front or not front.get("slug"):
+        front["slug"] = path.stem
     return front
 
 
