@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>ChatGPT &#x27;Love at First Prompt&#x27;: 5 Lessons for Builders</title>
+<meta name="description" content="A viral r/ChatGPT thread shows why the first response decides retention. 5 patterns to engineer &#x27;love at first prompt&#x27; in your own AI workflows." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-love-at-first-prompt-5-lessons-for-builders.html" />
+<meta property="og:title" content="ChatGPT &#x27;Love at First Prompt&#x27;: 5 Lessons for Builders" />
+<meta property="og:description" content="A viral r/ChatGPT thread shows why the first response decides retention. 5 patterns to engineer &#x27;love at first prompt&#x27; in your own AI workflows." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-love-at-first-prompt-5-lessons-for-builders.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "ChatGPT 'Love at First Prompt': 5 Lessons for Builders", "description": "A viral r/ChatGPT thread shows why the first response decides retention. 5 patterns to engineer 'love at first prompt' in your own AI workflows.", "datePublished": "2026-05-16T20:17:30.484576+00:00", "dateModified": "2026-05-16T20:17:30.484576+00:00", "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-love-at-first-prompt-5-lessons-for-builders.html", "keywords": "ChatGPT love at first prompt, ChatGPT first prompt experience, prompt engineering retention, viral ChatGPT reddit thread, AI onboarding UX"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">ChatGPT</span></div>
+<h1>ChatGPT &#x27;Love at First Prompt&#x27;: 5 Lessons for Builders</h1>
+<div class="meta">Published: 2026-05-16 | Category: ChatGPT</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<h2>TL;DR</h2>
+<ul>
+<li>A Reddit thread titled "Love at first prompt" surfaced on r/ChatGPT, capturing the moment first-time users decide an AI tool is worth keeping.</li>
+<li>The pattern matters more than benchmarks: retention is decided by the *first* response, not the tenth.</li>
+<li>Builders and freelancers can engineer that first-response hit with scoped system prompts, anchored examples, and constrained outputs.</li>
+</ul>
+<h2>What happened</h2>
+<p>A post on r/ChatGPT titled "Love at first prompt" gathered attention from users sharing the specific moment they felt sold on ChatGPT. The framing — falling for an AI tool on the opening exchange — resonated because it described a near-universal onboarding pattern: type one question, read one answer, decide whether the tool stays in the workflow.</p>
+<p>The thread sits inside a broader 2026 conversation about ChatGPT's user habits. OpenAI has previously reported that ChatGPT crossed 800 million weekly active users, with the largest cohort being people who landed on a useful first response and never left. The Reddit discussion echoes that data point in plain language: most users do not run benchmarks, they run a single prompt and judge.</p>
+<p>Commenters described the trigger in similar ways across replies — an unprompted clarifying question, a draft email that captured tone on the first try, a debug suggestion that pointed at the actual broken line. The common element was not raw capability. It was *fit on attempt one*.</p>
+<h2>Why it matters</h2>
+<p>For anyone building on top of ChatGPT, Claude, or Gemini APIs, the thread is a market-signal in disguise. Capability gaps between frontier models — GPT-5, Claude Sonnet 4.6, Gemini 3.1 — keep narrowing. The differentiator on the consumer side has shifted to onboarding feel.</p>
+<p>Three implications for indie builders and freelancers:</p>
+<p>1. <strong>Demos sell on the first prompt, not the feature list.</strong> A SaaS landing page that lets a visitor type one query and get a tailored answer converts dramatically better than a wall of feature copy. The Reddit thread is unintentional evidence of this. 2. <strong>Retention curves are decided pre-paywall.</strong> If a user's first generation misses, the second attempt rarely happens. Bake the "wow" into the default state. 3. <strong>Word of mouth is prompt-shaped.</strong> Users who share AI tools quote the prompt and the reply, not the feature roadmap. Making the first reply quotable is a growth channel.</p>
+<p>On the competitive angle, Anthropic and Google have both repositioned recent releases around the same idea. Claude's Projects feature and Gemini's Gems both attempt to pre-load context so that the user's first prompt lands well — an explicit acknowledgement that prompt-one fit is the real moat.</p>
+<h2>Try it yourself</h2>
+<p>The following patterns are concrete enough to apply in the next hour, whether building a wrapper app, writing client deliverables, or refining a personal ChatGPT setup.</p>
+<p><strong>1. Pre-load a tight system prompt for every recurring task.</strong> If the same kind of request comes up often — drafting emails, summarising meetings, writing PR descriptions — stop typing it fresh each time. Save a system prompt under 200 words that names the role, the audience, the tone, and the output format. Custom Instructions in ChatGPT or a Project-level prompt in Claude are the right home.</p>
+<p><strong>2. Anchor with 1-2 worked examples.</strong> Few-shot examples remain the cheapest accuracy boost available. Include one input/output pair that matches the user's likely first request. For a customer-support wrapper this might be a sample ticket and the desired reply. The first prompt feels uncannily on-brand because the model is matching a concrete example, not guessing from a description.</p>
+<p><strong>3. Constrain the output shape.</strong> Unstructured prose makes first-prompt judgement harder. Ask for a fixed structure: TL;DR + body, three bullet points, JSON with named fields. Users who see clean structure on attempt one rate the tool higher than users who see the same content as a paragraph. This is true in benchmarks and in informal A/B tests.</p>
+<p><strong>4. Add a one-line clarifying probe — only when needed.</strong> The Reddit thread repeatedly cited "it asked the right follow-up question" as the moment of trust. Configure the assistant to ask exactly one clarifying question when the prompt is genuinely ambiguous, and to proceed otherwise. Excessive clarifying questions kill the feel. Zero kills accuracy. One, conditional, is the sweet spot.</p>
+<p><strong>5. Test the cold-start prompt weekly.</strong> Open an incognito window. Type the exact query a new user would type. Read the reply with fresh eyes. If it does not earn a "love at first prompt" reaction, edit the system prompt, not the model choice. Most teams over-tune the model and under-tune the opening context.</p>
+<p>A practical drill: take a workflow that currently requires three or four back-and-forth turns to land a useful output. Rewrite the system prompt and examples until the same outcome is reached in one turn. The exercise tends to expose redundant instructions, missing constraints, and unstated assumptions.</p>
+<p>For freelancers shipping AI features to clients, this also doubles as a sales artefact. A short Loom showing the first prompt landing perfectly is more persuasive than a feature deck. The Reddit thread proves the format works at scale; the work is to make it work for the specific product on the desk today.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://reddit.com/r/ChatGPT/comments/1texo0w/love_at_first_prompt/" rel="noopener" target="_blank">Love at first prompt — r/ChatGPT thread</a></li>
+<li><a href="https://openai.com/blog" rel="noopener" target="_blank">OpenAI: ChatGPT usage and weekly active users</a></li>
+<li><a href="https://www.anthropic.com/news/projects" rel="noopener" target="_blank">Anthropic Projects documentation</a></li>
+</ul>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "ChatGPT love at first prompt" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=ChatGPT%20love%20at%20first%20prompt" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://reddit.com/r/ChatGPT/comments/1texo0w/love_at_first_prompt/" rel="noopener" target="_blank">reddit/r/ChatGPT</a></p>
+<div class="tags"><span>ChatGPT</span><span>Prompt Engineering</span><span>AI UX</span><span>Reddit Trends</span><span>Indie Hackers</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>
