@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>ChatGPT for Healthcare: 5 AdventHealth Lessons</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-5-adventhealth-lessons.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-5-adventhealth-lessons.html</guid>
+<pubDate>2026-05-22T20:20:51.336403+00:00</pubDate>
+<description>AdventHealth deploys ChatGPT for Healthcare to cut admin work and return time to patient care. Five takeaways for builders.</description>
+</item>
+<item>
+<title>OpenAI Codex Named 2026 Gartner Leader for Enterprise Coding Agents</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-2026-gartner-leader-for-enterprise-coding.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-2026-gartner-leader-for-enterprise-coding.html</guid>
+<pubDate>2026-05-22T20:20:03.303632+00:00</pubDate>
+<description>OpenAI Codex earns Leader status in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents. What it means for devs.</description>
+</item>
+<item>
+<title>llms.txt Explained: 5 Things to Know in 2026</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/llms-txt-explained-5-things-to-know-in-2026.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/llms-txt-explained-5-things-to-know-in-2026.html</guid>
+<pubDate>2026-05-22T20:19:16.603175+00:00</pubDate>
+<description>Anna's Archive published a llms.txt-style note to AI crawlers. Here is how the standard works and how to add one to your own site today.</description>
+</item>
+<item>
 <title>OpenAI Codex on Dell: 5 Takeaways for Enterprise AI Coding</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-on-dell-5-takeaways-for-enterprise-ai-coding.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-on-dell-5-takeaways-for-enterprise-ai-coding.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/claude-at-dunder-mifflin-5-roleplay-prompts-that-test-ai-per.html</guid>
 <pubDate>2026-05-15T20:18:20.587864+00:00</pubDate>
 <description>A viral Reddit thread put Claude through a Dunder Mifflin first day. Here are 5 roleplay prompts to test AI tone, humor and persona stability.</description>
-</item>
-<item>
-<title>Left or Right? The ChatGPT Image A/B Test That Picks Winners</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/left-or-right-the-chatgpt-image-a-b-test-that-picks-winners.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/left-or-right-the-chatgpt-image-a-b-test-that-picks-winners.html</guid>
-<pubDate>2026-05-15T20:17:17.845224+00:00</pubDate>
-<description>How the 'left or right' ChatGPT image trend on Reddit doubles as a free A/B testing workflow for creators and indie hackers.</description>
-</item>
-<item>
-<title>Sea Limited Deploys OpenAI Codex: 5 Dev Takeaways</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/sea-limited-deploys-openai-codex-5-dev-takeaways.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/sea-limited-deploys-openai-codex-5-dev-takeaways.html</guid>
-<pubDate>2026-05-15T08:19:41.541189+00:00</pubDate>
-<description>Sea Limited's CPO David Chen details how OpenAI Codex is rolling out across Asia engineering teams for agentic software development.</description>
-</item>
-<item>
-<title>ChatGPT Copyrighted Characters: 5 Risks to Avoid</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-copyrighted-characters-5-risks-to-avoid.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-copyrighted-characters-5-risks-to-avoid.html</guid>
-<pubDate>2026-05-15T08:18:55.010655+00:00</pubDate>
-<description>A viral r/ChatGPT post on generating copyrighted characters exposes IP risks indie creators face in 2026.</description>
 </item>
 </channel></rss>
