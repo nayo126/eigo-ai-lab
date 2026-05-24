@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>How to Launch Claude Code: A 5-Minute Setup Guide for Beginners</title>
+<meta name="description" content="Claude Code launches with a single command, but the setup around it trips people up. Here&#x27;s the full flow from install to first prompt, plus fixes for when it w" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-24-how-to-launch-claude-code-a-5-minute-setup-guide-for-beginners.html" />
+<meta property="og:title" content="How to Launch Claude Code: A 5-Minute Setup Guide for Beginners" />
+<meta property="og:description" content="Claude Code launches with a single command, but the setup around it trips people up. Here&#x27;s the full flow from install to first prompt, plus fixes for when it w" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-24-how-to-launch-claude-code-a-5-minute-setup-guide-for-beginners.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "How to Launch Claude Code: A 5-Minute Setup Guide for Beginners", "description": "Claude Code launches with a single command, but the setup around it trips people up. Here's the full flow from install to first prompt, plus fixes for when it w", "datePublished": null, "dateModified": null, "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/2026-05-24-how-to-launch-claude-code-a-5-minute-setup-guide-for-beginners.html", "keywords": ""}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">Claude</span></div>
+<h1>How to Launch Claude Code: A 5-Minute Setup Guide for Beginners</h1>
+<div class="meta">Published:  | Category: Claude</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p>You installed Claude Code, opened your terminal, and… now what? If you're not used to the command line, the first step is usually where momentum dies. You're staring at a blinking cursor with no idea what to type.</p>
+<p>Good news: launching Claude Code is one command. The hard part isn't the launch itself — it's the prep that comes before it and the errors that show up after. Get those two right and you'll be handing tasks to an AI inside your codebase in under five minutes.</p>
+<p>Here's the whole flow, from a fresh install to your first working prompt, written so it makes sense even if you've never lived in a terminal.</p>
+<h2>The launch command is just <code>claude</code></h2>
+<p>Straight to the point: you start Claude Code by typing <code>claude</code> and hitting Enter.</p>
+<p>``<code>bash claude </code>``</p>
+<p>Claude Code is a CLI tool, and the installer registers it as a global command — so once it's set up, <code>claude</code> works from any directory. Run it and you drop into interactive mode, ready to type instructions.</p>
+<p>For that single word to work, two things have to be true:</p>
+<p>1. <strong>Node.js 18 or newer</strong> is installed. 2. <strong>Claude Code itself</strong> is installed.</p>
+<p>Miss either one and you'll get the dreaded <code>command not found</code>. If you haven't installed it yet, this is the command:</p>
+<p>``<code>bash npm install -g @anthropic-ai/claude-code </code>``</p>
+<p>The <code>-g</code> flag means a global install, which is what makes <code>claude</code> available everywhere instead of being locked to one project folder. Give it a minute or two to finish.</p>
+<h2>Three things to do before you launch</h2>
+<p>A clean launch comes down to a little prep. Knock these out first.</p>
+<p><strong>1. Move into your project folder</strong></p>
+<p>This is the one people skip, and it matters. Claude Code treats whatever directory you launched it from as its working directory — that's the context it reads and edits. So don't fire off <code>claude</code> from your home folder. <code>cd</code> into the project you actually want to work on first.</p>
+<p>``<code>bash cd ~/projects/my-app claude </code>``</p>
+<p>If the project lives on your desktop, it's <code>cd ~/Desktop/my-app</code>. Launch from the wrong place and Claude will happily start reading the wrong files.</p>
+<p><strong>2. Check your Node version</strong></p>
+<p>Run this:</p>
+<p>``<code>bash node -v </code>``</p>
+<p>If the number is 18 or higher, you're fine. If it's lower — or nothing prints at all — grab the latest LTS from the Node.js site, or use <code>nvm</code> to install something current like Node 20. An outdated runtime is one of the most common reasons the launch errors out before it even starts.</p>
+<p><strong>3. Have your login ready</strong></p>
+<p>The first time you run <code>claude</code>, it'll ask you to authenticate with your Anthropic account. If you're on a Claude Pro or Max plan, you'll log in with that account. If you're using the API directly, have your API key handy so you're not scrambling when the prompt appears.</p>
+<h2>What the first launch actually looks like</h2>
+<p>Run <code>claude</code> for the first time and your browser pops open to a login screen. Here's the play-by-play.</p>
+<p>First you pick an authentication method. Pro and Max subscribers link their account by following the on-screen flow. Once that completes, control returns to the terminal and you'll see something like <strong>"Login successful."</strong> That's it — you're in.</p>
+<p>Now you've got a prompt waiting for input. Try something simple to confirm it's working:</p>
+<p>``<code> List every file in this folder. </code>``</p>
+<p>Plain English is fine. Claude Code reads the directory and reports back. That moment — when it actually understands your repo and responds — is when the tool clicks.</p>
+<p>A couple of things worth knowing right away:</p>
+<ul>
+<li><strong>To quit:</strong> type <code>/exit</code>, or press <code>Ctrl + C</code> twice. (One <code>Ctrl + C</code> just cancels the current operation; it doesn't close the session.)</li>
+<li><strong>To resume your last session:</strong> launch with <code>claude --continue</code> and it picks up the previous conversation instead of starting cold.</li>
+</ul>
+<p>After this first login, you won't have to authenticate again. Your token is saved, so from now on <code>claude</code> drops you straight into the session.</p>
+<h2>When it won't launch: a checklist</h2>
+<p>"I typed the command and nothing happens" is one of the most common Claude Code complaints, and the causes are predictable. Work through these top to bottom.</p>
+<p><strong>You get <code>command not found</code></strong></p>
+<p>Either the install didn't go through, or the install location isn't on your PATH. First, confirm it's actually installed:</p>
+<p>``<code>bash npm list -g </code>``</p>
+<p>If Claude Code isn't in that list, reinstall it. If it *is* listed but the command still fails, fully close your terminal and reopen it — sometimes the PATH only updates in a fresh shell. If it still won't resolve, your npm global bin directory probably isn't in your shell config (<code>.zshrc</code>, <code>.bashrc</code>, etc.); adding it there fixes it permanently.</p>
+<p><strong>You get <code>permission denied</code></strong></p>
+<p>This usually fails at the <code>npm install</code> step because npm can't write to its global directory. Two ways out: prefix the install with <code>sudo</code> (quick fix on macOS/Linux), or — the cleaner option — reconfigure npm to install global packages under your home directory so you never need elevated permissions again. The second approach saves you headaches down the line.</p>
+<p><strong>The login page never opens</strong></p>
+<p>If your browser doesn't launch automatically, Claude Code prints a URL in the terminal — copy it and paste it into your browser by hand. On corporate networks or behind a VPN, the auth handshake can get blocked; if you're stuck there, temporarily disabling the VPN and retrying usually does it.</p>
+<p>When in doubt, <code>claude --help</code> lists every command and flag. Make checking it your first reflex when something behaves unexpectedly — it'll often answer the question faster than searching.</p>
+<h2>Wrapping up</h2>
+<p>Launching Claude Code is genuinely just <code>claude</code>. The pieces that make or break a smooth start sit around that command: getting Node.js in place, <code>cd</code>-ing into the right project, and clearing the first login.</p>
+<p>And when it won't start, the cause almost always boils down to one of three things — incomplete install, missing permissions, or a PATH that isn't set. Work the checklist calmly and it will run.</p>
+<p>Best way to get comfortable: spin up a small throwaway folder, launch Claude in it, and ask it to do something trivial. Once you've felt what it's like to hand real work to an AI sitting inside your codebase, the rest stops feeling intimidating.</p>
+<h2>FAQ</h2>
+<h3>Why do I get <code>command not found: claude</code>?</h3>
+<p>The install didn't complete, or the command isn't on your PATH. Re-run <code>npm install -g @anthropic-ai/claude-code</code> and reopen your terminal. It also happens when npm's global bin path isn't added to your shell config — add it there to fix it for good.</p>
+<h3>Which Node.js version does Claude Code need?</h3>
+<p>Node.js 18 or higher. Check with <code>node -v</code>, and if you're below 18, update via the official site or <code>nvm</code> (Node 20 is a safe choice). An older runtime will throw an error before the session starts.</p>
+<h3>How do I exit Claude Code?</h3>
+<p>Type <code>/exit</code> in interactive mode, or press <code>Ctrl + C</code> twice. A single <code>Ctrl + C</code> only cancels the current operation — the session keeps running.</p>
+<h3>Is Claude Code free, or do I need to pay?</h3>
+<p>You need either a Claude Pro/Max subscription or pay-as-you-go API access. The Max plan runs roughly $100–200/month depending on tier; once subscribed, just follow the login flow on first launch and you're set.</p>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "Claude Code" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=Claude%20Code" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<div class="tags"><span>Claude Code</span><span>CLI tools</span><span>AI coding</span><span>developer setup</span><span>terminal</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>

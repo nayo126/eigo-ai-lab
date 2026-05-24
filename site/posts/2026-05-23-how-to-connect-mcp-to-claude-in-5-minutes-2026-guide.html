@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>How to Connect MCP to Claude in 5 Minutes (2026 Guide)</title>
+<meta name="description" content="A no-fluff walkthrough for wiring MCP servers into Claude Desktop, the three errors that trip everyone up, and three workflows that actually save freelancers ho" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-23-how-to-connect-mcp-to-claude-in-5-minutes-2026-guide.html" />
+<meta property="og:title" content="How to Connect MCP to Claude in 5 Minutes (2026 Guide)" />
+<meta property="og:description" content="A no-fluff walkthrough for wiring MCP servers into Claude Desktop, the three errors that trip everyone up, and three workflows that actually save freelancers ho" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-23-how-to-connect-mcp-to-claude-in-5-minutes-2026-guide.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "How to Connect MCP to Claude in 5 Minutes (2026 Guide)", "description": "A no-fluff walkthrough for wiring MCP servers into Claude Desktop, the three errors that trip everyone up, and three workflows that actually save freelancers ho", "datePublished": null, "dateModified": null, "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/2026-05-23-how-to-connect-mcp-to-claude-in-5-minutes-2026-guide.html", "keywords": ""}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">Claude</span></div>
+<h1>How to Connect MCP to Claude in 5 Minutes (2026 Guide)</h1>
+<div class="meta">Published:  | Category: Claude</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p>"I want to hook MCP up to Claude, but I have no idea which part of the config file to touch." "I followed the official docs and it just errors out." If you've hit either wall, you're not alone — MCP setup questions have exploded over the past few months.</p>
+<p>Here's the short version: connecting an MCP server to Claude comes down to adding a correct block of JSON to <code>claude_desktop_config.json</code> and restarting the app. That's it. Below I'll walk through the exact steps, the three failure modes that catch nearly everyone, and a few workflows that pay for the setup time within a day.</p>
+<h2>What MCP actually is (30-second version)</h2>
+<p>MCP (Model Context Protocol) is an open protocol Anthropic released at the end of 2024. It's a standardized way to connect Claude to your local machine and external services safely. The cleanest mental model: it's USB-C for AI tools — one common port, swap in whatever you need.</p>
+<p>The servers you'll reach for most:</p>
+<ul>
+<li><strong>filesystem</strong> — read and write local files</li>
+<li><strong>github</strong> — manage repos, open PRs</li>
+<li><strong>brave-search</strong> — pull live web search results</li>
+<li><strong>postgres / sqlite</strong> — query a database directly</li>
+<li><strong>slack</strong> — post to channels, pull history</li>
+</ul>
+<p>Tool-calling accuracy over MCP has jumped noticeably in recent Claude releases, which is the real reason it's worth setting up now. It's past the "cute demo" stage and into "I run this every day" territory.</p>
+<h2>Connecting it in Claude Desktop — 5 steps</h2>
+<h3>Step 1: Open the config file</h3>
+<p>On macOS it lives at <code>~/Library/Application Support/Claude/claude_desktop_config.json</code>. On Windows it's <code>%APPDATA%\Claude\claude_desktop_config.json</code>. If the file doesn't exist yet, just create it.</p>
+<h3>Step 2: Write the JSON</h3>
+<p>Here's the minimal config to wire up the filesystem server:</p>
+<p>``<code>json {   "mcpServers": {     "filesystem": {       "command": "npx",       "args": [         "-y",         "@modelcontextprotocol/server-filesystem",         "/Users/yourname/Documents"       ]     }   } } </code>``</p>
+<p>That last argument is the directory Claude is allowed to touch. Point it at a real working folder, not your home root.</p>
+<h3>Step 3: Get Node.js in place</h3>
+<p><code>npx</code> needs Node.js 18 or newer. Run <code>node -v</code> to check. If it's missing or outdated, grab it from nodejs.org. This is the single most common reason a server "silently doesn't start" — no Node, no npx, no MCP.</p>
+<h3>Step 4: Fully quit and relaunch Claude Desktop</h3>
+<p>The config is <strong>not</strong> hot-reloaded. Closing the window isn't enough either — quit the app completely, including the tray/menu-bar process, then reopen it. Half the "it's not working" reports are just a window that was closed but not killed.</p>
+<h3>Step 5: Confirm the connection</h3>
+<p>Look for the hammer icon at the bottom-left of the input box. Click it and you should see your registered tools listed. If they're there, you're live.</p>
+<h2>The three errors everyone hits</h2>
+<p><strong>Error 1: "The server won't start."</strong> Nine times out of ten this is a bad path. On Windows, escape your backslashes as <code>\\</code>. On macOS, use an absolute path — no <code>~</code>, no relative shortcuts. Fix the path and the server usually comes right up.</p>
+<p><strong>Error 2: "The hammer icon never shows up."</strong> That's a JSON syntax error. A missing comma or an unclosed quote will silently break the whole file. Open it in an editor with syntax checking (VS Code is fine) or paste it into an online JSON linter. Thirty seconds of validation beats an hour of guessing.</p>
+<p><strong>Error 3: "Permission denied / can't read the files."</strong> The filesystem server only grants access to the directory you explicitly listed. If Claude can't see your Desktop or Downloads, it's because you didn't add them to the args. List every folder you actually plan to work in.</p>
+<h2>Three MCP workflows worth setting up</h2>
+<p>This is where it stops being a toy. A few combinations that genuinely move the needle:</p>
+<p>1. <strong>Auto-drafting blog posts.</strong> Pair <code>filesystem</code> with <code>brave-search</code> and tell Claude: "Research the latest trends on X and save a 2,000-word draft to <code>/blog</code>." You come back to a finished first draft instead of a blank page.</p>
+<p>2. <strong>Managing client deliverables.</strong> Hook up the GitHub MCP and have Claude generate a README and a TODO list per project repo automatically. If you're freelancing on Upwork or similar, this roughly doubles how fast you can turn work around — less time on scaffolding, more on the actual job.</p>
+<p>3. <strong>Faster data analysis.</strong> Connect the SQLite MCP to a local database and run queries in plain English. No more digging through Excel formulas or remembering exact SQL syntax — describe what you want and read the result.</p>
+<p>A handful of freelancers chaining five-plus MCP servers together are already reporting they've doubled their monthly income off the efficiency gains. The window where this is still an edge — rather than table stakes — won't last forever. Most of 2026, at a guess.</p>
+<h2>A quick note on cost</h2>
+<p>Worth saying plainly because it comes up constantly: the MCP protocol itself is free, and it works on Claude Desktop's free plan. The official servers — filesystem, github, and friends — cost nothing. A few servers like brave-search need an API key, and once you blow past their free tier you're into usage-based pricing. But you can get a full local setup running for $0.</p>
+<h2>FAQ</h2>
+<p><strong>Where is the Claude MCP config file?</strong> macOS: <code>~/Library/Application Support/Claude/claude_desktop_config.json</code>. Windows: <code>%APPDATA%\Claude\claude_desktop_config.json</code>. Create it if it's not there, and fully restart Claude Desktop after editing — changes don't apply until you do.</p>
+<p><strong>Why won't my MCP server be recognized?</strong> Almost always a JSON mistake. The big three: a trailing comma, a missing double quote, or a wrong path in <code>command</code>. If <code>npx</code> can't be found, install Node.js 18+ and point <code>command</code> at an absolute path.</p>
+<p><strong>Does using MCP cost anything?</strong> The protocol is free and runs on the free Claude Desktop plan. Official servers are free too. Some — like brave-search — require an API key and bill by usage once you exceed the free tier.</p>
+<p><strong>How is MCP different from Claude API tool use?</strong> MCP connects local machines and external services through one shared standard, and runs inside the Claude Desktop app. API tool use has to be implemented in code, tool by tool. With MCP you add a JSON block once and reuse it everywhere — that reusability is the whole point.</p>
+<h2>Bottom line</h2>
+<p>Connecting MCP to Claude is two moves: write the JSON, restart the app. The only hard part is the first time. Once a server is wired in, adding more takes a couple of minutes each. Start with filesystem, get comfortable, then expand into GitHub and SQLite — that's the shortest path. If you want an edge with AI in your workflow, get this set up this week.</p>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "Claude" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=Claude" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<div class="tags"><span>Claude</span><span>MCP</span><span>AI workflow</span><span>automation</span><span>developer tools</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>
