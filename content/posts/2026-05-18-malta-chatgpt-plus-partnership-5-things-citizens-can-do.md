@@ -71,4 +71,4 @@ The Malta partnership is worth watching for the next 12 months because it will p
 
 - [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership)
 - [OpenAI for Government overview](https://openai.com/global-affairs/introducing-openai-for-government/)
-- [ChatGPT Plus pricing and features](https://openai.com/chatgpt/pricing/)
+- [ChatGPT Plus pricing and features](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/pricing/ -->

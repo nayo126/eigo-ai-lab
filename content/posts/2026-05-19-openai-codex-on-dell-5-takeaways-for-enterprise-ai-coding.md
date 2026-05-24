@@ -57,4 +57,4 @@ For indie hackers, freelancers, and dev consultancies, the practical effect is a
 ## Sources
 - [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership)
 - [OpenAI Codex overview](https://openai.com/codex)
-- [Dell AI Factory](https://www.dell.com/en-us/dt/ai-factory/index.htm)
+- [Dell AI Factory](#) <!-- broken-link removed by broken-link-fixer: was https://www.dell.com/en-us/dt/ai-factory/index.htm -->

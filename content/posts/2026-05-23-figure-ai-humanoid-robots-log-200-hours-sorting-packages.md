@@ -63,4 +63,4 @@ For indie hackers and developers, the signal is less about buying a robot and mo
 
 - [Figure AI celebrates 200 hours of humanoid robots handling packages (r/singularity)](https://reddit.com/r/singularity/comments/1tkd0fk/figure_ai_celebrates_200_hours_8_days_8_hours_of/)
 - [Figure AI official site](https://www.figure.ai/)
-- [Tesla Optimus humanoid program overview](https://www.tesla.com/we-robot)
+- [Tesla Optimus humanoid program overview](#) <!-- broken-link removed by broken-link-fixer: was https://www.tesla.com/we-robot -->

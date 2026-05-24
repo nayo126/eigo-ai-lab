@@ -74,4 +74,4 @@ The headline is a vendor announcement. The real story is that on-prem AI coding 
 
 - [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership)
 - [OpenAI Codex product page](https://openai.com/codex)
-- [Dell AI Factory overview](https://www.dell.com/en-us/dt/ai-factory/index.htm)
+- [Dell AI Factory overview](#) <!-- broken-link removed by broken-link-fixer: was https://www.dell.com/en-us/dt/ai-factory/index.htm -->

@@ -66,5 +66,5 @@ None of these require a Databricks contract. They are the same moves that make a
 ## Sources
 
 - [Databricks brings GPT-5.5 to enterprise agent workflows (OpenAI)](https://openai.com/index/databricks)
-- [Mosaic AI Agent Framework (Databricks docs)](https://docs.databricks.com/en/generative-ai/agent-framework/index.html)
+- [Mosaic AI Agent Framework (Databricks docs)](#) <!-- broken-link removed by broken-link-fixer: was https://docs.databricks.com/en/generative-ai/agent-framework/index.html -->
 - [Snowflake Cortex AI overview](https://www.snowflake.com/en/data-cloud/cortex/)

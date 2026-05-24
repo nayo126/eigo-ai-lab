@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>How to Write Copilot Prompts That Actually Work: A 7-Step Framework</title>
+<meta name="description" content="Copilot output lives or dies by how you prompt it. Here&#x27;s a 7-step framework — role, context, constraints — to get cleaner code and fewer rewrites." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-25-how-to-write-copilot-prompts-that-actually-work-a-7-step-framework.html" />
+<meta property="og:title" content="How to Write Copilot Prompts That Actually Work: A 7-Step Framework" />
+<meta property="og:description" content="Copilot output lives or dies by how you prompt it. Here&#x27;s a 7-step framework — role, context, constraints — to get cleaner code and fewer rewrites." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/2026-05-25-how-to-write-copilot-prompts-that-actually-work-a-7-step-framework.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "How to Write Copilot Prompts That Actually Work: A 7-Step Framework", "description": "Copilot output lives or dies by how you prompt it. Here's a 7-step framework — role, context, constraints — to get cleaner code and fewer rewrites.", "datePublished": null, "dateModified": null, "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/2026-05-25-how-to-write-copilot-prompts-that-actually-work-a-7-step-framework.html", "keywords": ""}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">AI Tools</span></div>
+<h1>How to Write Copilot Prompts That Actually Work: A 7-Step Framework</h1>
+<div class="meta">Published:  | Category: AI Tools</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p>You started using Copilot, and something feels off. The answers aren't quite what you asked for. Maybe it even feels a step behind ChatGPT or Claude. The tool isn't the problem — the way you're talking to it is.</p>
+<p>Copilot is unusually sensitive to how you frame a request. GitHub Copilot Chat and Microsoft 365 Copilot are built to work *inside* your workflow, not as standalone chatbots. They pull context automatically: your open files, your repo, your Outlook thread, your Teams history. That changes everything about how you should prompt them. Drop in a generic ChatGPT-style prompt and you'll get generic results.</p>
+<p>Here's the framework I use, broken into seven steps with templates you can copy straight into your editor.</p>
+<h2>The core pattern: role × context × constraints</h2>
+<p>Every reliable Copilot prompt I write has three layers stacked on top of each other: <strong>role definition, context, and constraints.</strong></p>
+<p>The reason is simple. Copilot is optimized to answer as a continuation of whatever you're already doing. GitHub Copilot reads the surrounding code. Microsoft 365 Copilot reads your recent messages and documents. So the question isn't "what do I tell it about my situation" — it already knows a lot of that. The question is *what do I add* that it can't infer.</p>
+<p>The skeleton looks like this:</p>
+<p>``<code> You are a [role]. Working within [current situation / assumptions], your goal is to [objective]. Follow these [constraints / output format]. </code>``</p>
+<p>Developers who share prompt breakdowns online consistently report the same thing: three-layer prompts produce far fewer rewrite cycles than one-liners. A vague "tell me about X" wastes the part of Copilot that's actually good. The structure below is just a practical way to fill in those three layers.</p>
+<h2>Steps 1–3: Build the foundation</h2>
+<p>Get the skeleton right first. Skip this and no amount of clever phrasing later will save you — the output stays inconsistent.</p>
+<h3>Step 1: Define a role in one line</h3>
+<p>Open with a single sentence that assigns a role. It shifts the vocabulary and the lens Copilot uses to answer.</p>
+<ul>
+<li>❌ "Review this code."</li>
+<li>✅ "You are a senior engineer with 10 years of TypeScript and React experience. Review the code below."</li>
+</ul>
+<p>In GitHub Copilot Chat, the role line measurably changes which review angles it prioritizes — performance, type safety, readability — and the language it reaches for.</p>
+<h3>Step 2: Hand it context as a bullet list</h3>
+<p>Copilot parses structured bullets more reliably than a wall of prose. Give it the facts in a scannable block:</p>
+<p>``` Context:</p>
+<ul>
+<li>Project: admin dashboard for an e-commerce site</li>
+<li>Stack: TypeScript / Next.js 15</li>
+<li>Problem: the orders list page takes 3+ seconds to render</li>
+<li>Constraint: existing DB schema cannot change</li>
+</ul>
+<p>```</p>
+<p>This takes thirty seconds and it's the highest-leverage thing you can do. Half of bad Copilot output is just missing context the model had no way to know.</p>
+<h3>Step 3: Make the goal measurable</h3>
+<p>State what "done" looks like in numbers or concrete states. Not "make it faster" — "get first contentful paint under one second." The moment the target is specific, the quality of the proposed solutions jumps, because Copilot can actually optimize toward something instead of guessing at your intent.</p>
+<h2>Steps 4–5: Tighten precision with constraints</h2>
+<p>Foundation done. Now you sharpen the output.</p>
+<h3>Step 4: Specify the output format</h3>
+<p>Tell Copilot exactly how you want the answer shaped: "as a Markdown table," "diff format only," "code blocks with language tags." Without this, every response comes back in a different shape, which makes reviewing and reusing the output a chore.</p>
+<p>Some formats worth standardizing on:</p>
+<ul>
+<li><strong>Code suggestions:</strong> "Return only the changed lines as a diff. Add a one-line comment explaining each change."</li>
+<li><strong>Design discussions:</strong> "List pros, cons, and your recommended choice as three bullet sections."</li>
+<li><strong>Email drafts:</strong> "Output in this order: subject, body, one-line summary."</li>
+</ul>
+<h3>Step 5: Spell out what NOT to do</h3>
+<p>This one surprises people. Telling Copilot what to avoid is often as powerful as telling it what to do.</p>
+<p>``` Constraints:</p>
+<ul>
+<li>Don't pull in heavy new dependencies</li>
+<li>Keep comments in plain English, no jargon</li>
+<li>Don't guess — if something's unclear, ask me first</li>
+</ul>
+<p>```</p>
+<p>That last line matters more than the rest. Left to its own devices, Copilot fills gaps with assumptions and barrels ahead. "Ask me if anything's unclear" stops it from confidently building the wrong thing, and it kills a huge share of off-target suggestions before they happen.</p>
+<h2>Steps 6–7: The techniques that separate pros</h2>
+<p>This is where prompting starts paying off in real productivity — whether that's your day job or freelance work.</p>
+<h3>Step 6: Use few-shot examples to lock in style</h3>
+<p>Few-shot just means showing one to three examples before you make the real request. It's the fastest way to get output in *your* voice instead of generic AI-speak.</p>
+<p>Say you're drafting an email in Microsoft 365 Copilot. Paste two of your own past emails, then ask it to match the tone. The difference is night and day — the output stops reading like a stranger wrote it.</p>
+<p>``<code> Here are examples of how I usually write emails: [Example 1] ... [Example 2] ... Using the same tone, draft an email to schedule next week's meeting. </code>``</p>
+<p>The same trick works for code style, commit messages, PR descriptions, documentation — anything where consistency matters.</p>
+<h3>Step 7: Turn prompts into reusable assets</h3>
+<p>Rewriting the same prompt from scratch every time is a waste. Save the ones that work and build a library.</p>
+<p>How I'd organize it:</p>
+<p>1. <strong>GitHub Copilot:</strong> drop shared project rules into <code>.github/copilot-instructions.md</code> so every prompt inherits them automatically. 2. <strong>Microsoft 365 Copilot:</strong> save reusable prompts in Copilot Lab. 3. <strong>Personal stash:</strong> keep a Notion page or a plain text file sorted by use case — "code review," "meeting summary," "bug triage."</p>
+<p>If you do any freelance dev work or AI writing on the side, this prompt library translates directly into delivery speed. Once you've got 20 solid templates, the per-project time often drops by more than half. You're not reinventing the prompt each time — you're filling in the blanks.</p>
+<h2>A quick worked example</h2>
+<p>Putting all seven steps together, here's what a real Copilot Chat prompt looks like:</p>
+<p>``` You are a senior frontend engineer fluent in React and TypeScript.</p>
+<p>Context:</p>
+<ul>
+<li>Component: orders table in a Next.js 15 admin dashboard</li>
+<li>Problem: re-renders on every keystroke in the search box</li>
+<li>Constraint: can't add new state libraries</li>
+</ul>
+<p>Goal: cut unnecessary re-renders so typing stays under 50ms latency.</p>
+<p>Output:</p>
+<ul>
+<li>Diff format, changed lines only</li>
+<li>One-line comment per change explaining why</li>
+<li>If the fix needs info I haven't given, ask before assuming</li>
+</ul>
+<p>```</p>
+<p>Notice there's no "please help me" filler and no vague ask. Role, context, measurable goal, format, and a guardrail against guessing — all five live in one block. That's the whole game.</p>
+<h2>The fastest route to better Copilot output</h2>
+<p>The foundation is the three-layer structure: role × context × constraints. Layer on a measurable goal, a format spec, an explicit don't-do list, a few-shot example, and a saved template, and the output quality stops being a coin flip.</p>
+<p>Don't try to overhaul everything at once. Take one task you're doing today and run it through this frame. Do that for a week and the shift is obvious — you go from being jerked around by the AI to actually driving it.</p>
+<p>Prompting isn't a talent. It's a pattern. The people who learn the pattern are the ones who pull ahead.</p>
+<h2>FAQ</h2>
+<p><strong>What's the real difference between prompting Copilot and ChatGPT?</strong> ChatGPT needs you to spell out every detail in text. Copilot already pulls context from your code, Outlook, and Teams. So keep the role and constraints tight, and point it at the specific files or threads you want it to reference rather than re-describing them.</p>
+<p><strong>How do I get more accurate results from GitHub Copilot Chat?</strong> Open the target file, reference it with <code>#file</code> or a selection, and add one sentence covering language, framework, and expected behavior. "Convert this React function to TypeScript and fix all type errors without leaving any" works far better than "fix this," because the constraint is baked in.</p>
+<p><strong>What's a good Microsoft 365 Copilot prompt?</strong> Anything that pins down scope, format, and length: "Summarize the decisions from last week's Teams meeting in five bullets," or "Draft three reply options to this email, 200 words each." Specifying the reference range and output shape beats a vague request every time.</p>
+<p><strong>What do I do when Copilot just won't give me the answer I want?</strong> Add three things: an explicit role, the exact files or conversations it should reference, and constraints on format and length. Don't aim for perfect on the first shot — read the output, then iterate with targeted follow-ups like "make the third point more concrete."</p>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "GitHub Copilot" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=GitHub%20Copilot" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<div class="tags"><span>GitHub Copilot</span><span>prompt engineering</span><span>AI coding</span><span>developer productivity</span><span>Microsoft 365 Copilot</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>

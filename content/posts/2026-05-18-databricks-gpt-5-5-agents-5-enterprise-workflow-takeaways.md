@@ -62,5 +62,5 @@ For indie builders without a Databricks contract, the practical takeaway is narr
 ## Sources
 
 - [OpenAI: Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks)
-- [Databricks Mosaic AI Agent Framework](https://www.databricks.com/product/machine-learning/mosaic-ai-agent-framework)
+- [Databricks Mosaic AI Agent Framework](#) <!-- broken-link removed by broken-link-fixer: was https://www.databricks.com/product/machine-learning/mosaic-ai-agent-framework -->
 - [OpenAI Platform: Models](https://platform.openai.com/docs/models)
