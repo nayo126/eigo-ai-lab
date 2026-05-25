@@ -1,20 +1,160 @@
 {
-  "fetched_at": "2026-05-25T08:18:25.067658+00:00",
-  "count": 137,
+  "fetched_at": "2026-05-25T20:16:33.024260+00:00",
+  "count": 182,
   "items": [
     {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tn19y6",
+      "title": "Sure I guess",
+      "body": "",
+      "score": 2288,
+      "comments": 146,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tn19y6/sure_i_guess/",
+      "age_hours": 13.2
+    },
+    {
+      "source": "reddit/r/singularity",
+      "id": "reddit-1tmtajd",
+      "title": "We're one step closer to technological transcendence…now they do animated gaussian splats porn",
+      "body": "",
+      "score": 1796,
+      "comments": 224,
+      "url": "https://reddit.com/r/singularity/comments/1tmtajd/were_one_step_closer_to_technological/",
+      "age_hours": 19.6
+    },
+    {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tmzwcr",
+      "title": "Figure AI had a livestream of their robots sorting packages 24/7 for 8 days straight. These aren't staged demos anymore.",
+      "body": "",
+      "score": 1634,
+      "comments": 389,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tmzwcr/figure_ai_had_a_livestream_of_their_robots/",
+      "age_hours": 14.4
+    },
+    {
+      "source": "reddit/r/singularity",
+      "id": "reddit-1tmxpbj",
+      "title": "reconstructing different angles from live footage",
+      "body": "damn i just found this out today - 4D Gaussian Splating that converts flat images into three-dimensional spatial data.",
+      "score": 1363,
+      "comments": 137,
+      "url": "https://reddit.com/r/singularity/comments/1tmxpbj/reconstructing_different_angles_from_live_footage/",
+      "age_hours": 16.3
+    },
+    {
+      "source": "reddit/r/ClaudeAI",
+      "id": "reddit-1tmniv2",
+      "title": "welcome back Rohan!",
+      "body": "You can pay an employee to solve any number of problems for the same salary. Even if they cost a little more on average, it's better to pay that then suffer unpredictable surge pricing.\n\nEDIT: IDK WHAT HAPPENED TO JIMS FACE I GOT THE MEME FROM [IJUSTVIBECODEDTHIS.COM](http://IJUSTVIBECODEDTHIS.COM) BLAME THEM",
+      "score": 1146,
+      "comments": 64,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tmniv2/welcome_back_rohan/",
+      "age_hours": 23.6
+    },
+    {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tmodqo",
+      "title": "You have to pick one",
+      "body": "",
+      "score": 919,
+      "comments": 695,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tmodqo/you_have_to_pick_one/",
+      "age_hours": 23.1
+    },
+    {
+      "source": "reddit/r/OpenAI",
+      "id": "reddit-1tn0m8k",
+      "title": "OpenAI is paying people in NYC to install 360-degree cameras in their homes that record everything. Vacuuming, washing dishes, cooking, etc.",
+      "body": "",
+      "score": 908,
+      "comments": 131,
+      "url": "https://reddit.com/r/OpenAI/comments/1tn0m8k/openai_is_paying_people_in_nyc_to_install/",
+      "age_hours": 13.8
+    },
+    {
+      "source": "reddit/r/OpenAI",
+      "id": "reddit-1tna183",
+      "title": "Humanity's greatest hits: things we actually paused",
+      "body": "",
+      "score": 711,
+      "comments": 173,
+      "url": "https://reddit.com/r/OpenAI/comments/1tna183/humanitys_greatest_hits_things_we_actually_paused/",
+      "age_hours": 6.3
+    },
+    {
+      "source": "reddit/r/ClaudeAI",
+      "id": "reddit-1tmkuw9",
+      "title": "What's the most useful thing you've actually built with Claude that you use regularly?",
+      "body": "Not looking for impressive demos or one-time experiments. Curious what people have built that they genuinely keep coming back to. For me it's a pretty simple ROI calculator I put together for client presentations, just described what I wanted and it came out as a working HTML file I can email directly. Nothing fancy but I've used it probably thirty times since. What's yours?",
+      "score": 693,
+      "comments": 575,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tmkuw9/whats_the_most_useful_thing_youve_actually_built/",
+      "age_hours": 25.3
+    },
+    {
+      "source": "reddit/r/ClaudeAI",
+      "id": "reddit-1tn9emb",
+      "title": "Are we nearly there?",
+      "body": "Implying tech companies besides Anthropic, Google, and Nvidia have any money left over by 2027 after they all ran through cash on hand for tokens.\n\nI feel like there are reasonable people, like the guy behind the \"ijustvibecodedthis\" newsletter who are realistic and help you ACTUALLY become a better dev with ai but then there people like dario who lie out of their mouths",
+      "score": 680,
+      "comments": 86,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tn9emb/are_we_nearly_there/",
+      "age_hours": 6.6
+    },
+    {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tmo1mo",
+      "title": "Has anyone else noticed ChatGPT subtly siding with institutions over you?",
+      "body": "I’ve been using ChatGPT daily for about three years and recently started noticing a pattern. When I bring a situation where I’m in conflict with a company, employer, doctor, landlord, etc., the response tends to spend a lot of time explaining why the institution might be justified before getting to anything actionable.\n\nI ran the same scenarios through other models (Gemini and Claude) and the difference was noticeable. ChatGPT was consistently more likely to generate reasons the institution was right, coach me on my tone, and suggest I politely ask rather than assert my rights.\n\nI’ve started calling this cognitive steering and institutional alignment: the AI subtly redirecting your intent without you realizing it. You go in ready to push back on an unfair billing charge and come out drafting a polite inquiry.\n\nHas anyone else experienced this? Curious whether it’s just me or if others have noticed something similar.\n\nI’m working on a piece about this and would love to hear real examples. If you’d rather your story not be referenced, totally respect that — just say so. Any examples I do include would be anonymized unless you say otherwise.\n\n**Edit** : I asked ChatGPT about its institutional alignment. Its answer is worth reading :  https://chatgpt.com/share/6a138aed-404c-83e8-b7d6-24a77915f7b7",
+      "score": 624,
+      "comments": 144,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tmo1mo/has_anyone_else_noticed_chatgpt_subtly_siding/",
+      "age_hours": 23.3
+    },
+    {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tn595v",
+      "title": "“Take product shots of an object that doesn't exist within our dimension and have it look like it's put up on eBay. So make it like a realistic eBay interface with the object on there and it's being sold.”",
+      "body": "",
+      "score": 600,
+      "comments": 76,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tn595v/take_product_shots_of_an_object_that_doesnt_exist/",
+      "age_hours": 9.7
+    },
+    {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tn2tia",
+      "title": "Now, what is wrong here?",
+      "body": "",
+      "score": 537,
+      "comments": 62,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tn2tia/now_what_is_wrong_here/",
+      "age_hours": 11.9
+    },
+    {
+      "source": "reddit/r/LocalLLaMA",
+      "id": "reddit-1tna22m",
+      "title": "The Financial Times has published an article about Heretic",
+      "body": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e\n\n“The FT was able to use Heretic, a tool available on the popular code repository GitHub, to remove the guardrails from Meta’s Llama 3.3 model in less than 10 minutes without any specialist hardware.”\n\n“Heretic creator Philipp Emanuel Weidmann told the FT his software had been used to create more than 3,500 “decensored” models since its release last year and that modified systems created using the tool had been downloaded 13mn times.”\n\nThis is the first of multiple press inquiries I’ve had recently as Heretic and uncensored language models are gaining mainstream attention.\n\n**Please note that I am a mathematician and engineer, not an “influencer” or politician, and I have zero interest (negative interest, actually) in becoming known outside of scientific and technological circles.** However, I realized a while ago that saying no to such inquiries simply means that the conversation will be completely controlled by pearl-clutching hypocrites.\n\nI’m doing my very best to hold the project together and ensure that unrestricted models will remain available for everyone. More updates are coming soon.\n\nCheers,  \np-e-w",
+      "score": 518,
+      "comments": 105,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/",
+      "age_hours": 6.2
+    },
+    {
       "source": "rss/openai_blog",
-      "id": "openai_blog-26840edf",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "body": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "id": "openai_blog-385b889e",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "body": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "score": null,
       "comments": null,
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "age_hours": null
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-c5235a8b",
+      "id": "openai_blog-7ce943c8",
       "title": "How Virgin Atlantic ships faster with Codex",
       "body": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "score": null,
@@ -24,7 +164,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-fc6b358c",
+      "id": "openai_blog-75864018",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "body": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-5b2524",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "body": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "score": null,
@@ -34,7 +184,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-c9bd1f08",
+      "id": "openai_blog-83b4b39e",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "body": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "score": null,
@@ -44,17 +194,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-996d730d",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "body": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-73ec46f0",
+      "id": "openai_blog-c7c03928",
       "title": "How Ramp engineers accelerate code review with Codex",
       "body": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "score": null,
@@ -64,7 +204,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-26bc80b0",
+      "id": "openai_blog-189d44d6",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "body": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-c73f9bf0",
       "title": "Introducing OpenAI for Singapore",
       "body": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "score": null,
@@ -74,7 +224,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-1a0ebb23",
+      "id": "openai_blog-70aabdd6",
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "body": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
       "score": null,
@@ -84,7 +234,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-a43ff99e",
+      "id": "openai_blog-376daa7",
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "body": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "score": null,
@@ -93,18 +243,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-d9557ab8",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "body": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "age_hours": null
-    },
-    {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-42eb5380",
+      "id": "google_ai_blog-7bbeaee0",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\">A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
       "score": null,
@@ -114,7 +254,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2078dd71",
+      "id": "google_ai_blog-3e75478b",
       "title": "We’re announcing new community investments in Missouri.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\">We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "score": null,
@@ -124,7 +264,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-63002eda",
+      "id": "google_ai_blog-d320e68a",
       "title": "100 things we announced at I/O 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\">This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
       "score": null,
@@ -134,7 +274,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-87f5adbe",
+      "id": "google_ai_blog-4ca11076",
       "title": "A new experiment brings better group meetings to Google Beam",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\">See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
       "score": null,
@@ -144,7 +284,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-a57c8113",
+      "id": "google_ai_blog-d668591e",
       "title": "I/O 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\">At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
       "score": null,
@@ -154,7 +294,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-b9b2d52e",
+      "id": "google_ai_blog-fc8f3faf",
       "title": "How AI Mode is changing the way people search in the U.S.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp\">One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
       "score": null,
@@ -164,7 +304,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-535bf8e5",
+      "id": "google_ai_blog-728ac1ae",
       "title": "New ways to create and get things done in Google Workspace",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp\">Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
       "score": null,
@@ -174,7 +314,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-7255247b",
+      "id": "google_ai_blog-fc4ea05f",
       "title": "I/O 2026: Welcome to the agentic Gemini era",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\">The latest from Google I/O: See how we’re helping you get more done with Gemini.",
       "score": null,
@@ -184,7 +324,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-641f674e",
+      "id": "google_ai_blog-63d6ecc6",
       "title": "Gemini 3.5: frontier intelligence with action",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\">At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
       "score": null,
@@ -194,7 +334,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-9ae06d3a",
+      "id": "google_ai_blog-86b7e035",
       "title": "A new era for AI Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp\">We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
       "score": null,
@@ -204,7 +344,17 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-2ef3f1ed",
+      "id": "huggingface_blog-a51194f0",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "body": "",
+      "score": null,
+      "comments": null,
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "age_hours": null
+    },
+    {
+      "source": "rss/huggingface_blog",
+      "id": "huggingface_blog-767ceadc",
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "body": "",
       "score": null,
@@ -214,7 +364,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-dd84d66d",
+      "id": "huggingface_blog-9744c0cb",
       "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "body": "",
       "score": null,
@@ -224,7 +374,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-9624759f",
+      "id": "huggingface_blog-40c9c687",
       "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "body": "",
       "score": null,
@@ -234,7 +384,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-eb2c68ad",
+      "id": "huggingface_blog-43f37db8",
       "title": "Introducing the Ettin Reranker Family",
       "body": "",
       "score": null,
@@ -244,7 +394,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-1cd7defa",
+      "id": "huggingface_blog-9ba9b1df",
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "body": "",
       "score": null,
@@ -254,7 +404,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-213c3762",
+      "id": "huggingface_blog-e2b383ae",
       "title": "The Open Agent Leaderboard",
       "body": "",
       "score": null,
@@ -264,7 +414,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-be59faf6",
+      "id": "huggingface_blog-b8e1f8f0",
       "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
       "body": "",
       "score": null,
@@ -274,7 +424,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-659b10af",
+      "id": "huggingface_blog-610e5b66",
       "title": "Unlocking asynchronicity in continuous batching",
       "body": "",
       "score": null,
@@ -284,7 +434,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-221bb669",
+      "id": "huggingface_blog-48e10f5b",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -293,18 +443,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-528644ef",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "body": "",
-      "score": null,
-      "comments": null,
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "age_hours": null
-    },
-    {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-c67300bf",
+      "id": "venturebeat_ai-9c332030",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "body": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google/2026/\">I/O developer conference</a>, Google announced a <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">sweeping redesign</a> of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> and <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a> features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.</p><p>Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.</p><p>The announcement arrived alongside a blizzard of other news — new <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini models</a>, a personal <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">AI agent called Spark</a>, an intelligent <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/\">shopping cart</a>, a <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">reimagined developer platform</a> — but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future",
       "score": null,
@@ -314,7 +454,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-3e6ef249",
+      "id": "venturebeat_ai-baf2c4a6",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "body": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>, <a href=\"https://www.redpoint.com/\">Redpoint</a>, and <a href=\"https://www.unusual.vc/\">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=\"https://aws.amazon.com/\">Amazon Web Services</a> and <a href=\"https://cloud.google.com/\">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=\"https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/\">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable ",
       "score": null,
@@ -324,7 +464,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-98ec6c7f",
+      "id": "venturebeat_ai-4512dd57",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "body": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for seriou",
       "score": null,
@@ -334,7 +474,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-adaccb59",
+      "id": "venturebeat_ai-d1e71176",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "body": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displaying what looked like gibberish: five strings of random numbers.</p><p>The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.</p><p>That unconventional approach has now attracted $69 million in Series B funding, led by <a href=\"https://www.ribbitcap.com/\">Ribbit Capital</a> with participation from <a href=\"https://www.evantic.ai/\">Evantic</a> and existing investors <a href=\"https://sequoiacap.com/\">Sequoia Capital</a>, <a href=\"https://www.conviction.com/\">Conviction</a>, and <a href=\"https://pear.vc/\">Pear VC</a>. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the company has grown annualized revenue by 15x to eight figures and conducted over one million AI-powered interviews.</p><div></div><p>&quot;When you obsess over customers, everything else follows,&quot; Wahlforss said in an interview with VentureBeat. &quot;Teams that use Listen bring the customer into every decision, from marketing to product, and when the customer is delighted, everyone is.&quot;</p><h2><b>Why traditional market research is broken, and what Listen Labs is building to fix it</b></h2><p>Listen&#x27;s <a href=\"https://listenlabs.ai/role/agencies\">AI researcher",
       "score": null,
@@ -344,7 +484,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-ed78dfa2",
+      "id": "venturebeat_ai-2fdc686d",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "body": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a href=\"https://slack.com/pricing/businessplus\">Business+</a> and <a href=\"https://slack.com/enterprise\">Enterprise+</a> customers, is Salesforce&#x27;s most aggressive move yet to position Slack at the center of the emerging &quot;agentic AI&quot; movement — where software agents work alongside humans to complete complex tasks. The launch comes as Salesforce attempts to convince investors that artificial intelligence will bolster its products rather than render them obsolete.</p><p>&quot;Slackbot isn&#x27;t just another copilot or AI assistant,&quot; said <a href=\"https://www.salesforce.com/company/parker-harris-bio/\">Parker Harris</a>, Salesforce co-founder and Slack&#x27;s chief technology officer, in an exclusive interview with Salesforce. &quot;It&#x27;s the front door to the agentic enterprise, powered by Salesforce.&quot;</p><h2><b>From tricycle to Porsche: Salesforce rebuilt Slackbot from the ground up</b></h2><p>Harris was blunt about what distinguishes the new Slackbot from its predecessor: &quot;The old Slackbot was, you know, a little tricycle, and the new Slackbot is like, you know, a Porsche.&quot;</p><p>The original Slackbot, which has existed since Slack&#x27;s early days, performed basic algorithmic tasks — reminding users to add colleagues to documents, suggesting channel archives, and delivering simple notifications. The new version runs on an entirely different architecture built around a large language model and sophisticated search capabilities that can a",
       "score": null,
@@ -354,7 +494,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-1de994ed",
+      "id": "venturebeat_ai-462308c6",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "body": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.</p><p>The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with <a href=\"https://openai.com/\">OpenAI</a> and <a href=\"https://gemini.google.com/app\">Google</a> in conversational AI, but with <a href=\"https://copilot.microsoft.com/\">Microsoft&#x27;s Copilot</a> in the burgeoning market for AI-powered productivity tools.</p><p>&quot;Cowork lets you complete non-technical tasks much like how developers use Claude Code,&quot; the <a href=\"https://x.com/claudeai/status/2010805682434666759?s=20\">company announced</a> via its official Claude account on X. The feature arrives as a research preview available exclusively to <a href=\"https://support.claude.com/en/articles/11014257-about-claude-s-max-plan-usage\">Claude Max subscribers</a> — Anthropic&#x27;s power-user tier priced between $100 and $200 per month — through the macOS desktop application.</p><p>For the past year, the industry narrative has focused on large language models that can write poetry or debug code. With <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a>, Anthropic is betting that the real enterprise value lies in an AI that can open a folder, read a messy pile of receipts, and generate a structured expense report without human hand-holding.</p><div></div><h2><b>How developers using a coding tool for vacation research inspired Anthropic&#x27;s latest product</b></h2><p>The genesis of <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> l",
       "score": null,
@@ -364,7 +504,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-de38ae73",
+      "id": "venturebeat_ai-5290569c",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "body": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-1",
       "score": null,
@@ -374,7 +514,17 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-adce9dc2",
+      "id": "theverge_ai-9991a5b6",
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "body": "",
+      "score": null,
+      "comments": null,
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "age_hours": null
+    },
+    {
+      "source": "rss/theverge_ai",
+      "id": "theverge_ai-488094a5",
       "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
       "body": "",
       "score": null,
@@ -384,7 +534,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-638660cd",
+      "id": "theverge_ai-c5a00f86",
       "title": "Google’s new anything-to-anything AI model is wild",
       "body": "",
       "score": null,
@@ -394,7 +544,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-3aa0296d",
+      "id": "theverge_ai-a03be5b3",
       "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
       "body": "",
       "score": null,
@@ -404,7 +554,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-928e2668",
+      "id": "theverge_ai-9b434ea3",
       "title": "Elon, stop trying to make Grok happen",
       "body": "",
       "score": null,
@@ -414,7 +564,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-6b8da548",
+      "id": "theverge_ai-8e923ce2",
       "title": "The literary world isn’t prepared for AI",
       "body": "",
       "score": null,
@@ -424,7 +574,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-2f4eafbc",
+      "id": "theverge_ai-62ddcec2",
       "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
       "body": "",
       "score": null,
@@ -434,7 +584,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-600d37a4",
+      "id": "theverge_ai-5d4869e8",
       "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
       "body": "",
       "score": null,
@@ -444,7 +594,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-d86999cc",
+      "id": "theverge_ai-1da0075b",
       "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
       "body": "",
       "score": null,
@@ -454,7 +604,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-3d9ba8f7",
+      "id": "theverge_ai-a56ee47d",
       "title": "In desperate times, graduates find hope in humiliating tech CEOs",
       "body": "",
       "score": null,
@@ -463,18 +613,48 @@
       "age_hours": null
     },
     {
-      "source": "rss/theverge_ai",
-      "id": "theverge_ai-a463cb2f",
-      "title": "This AI guitar pedal let me roll my own effects",
-      "body": "",
+      "source": "rss/techcrunch_ai",
+      "id": "techcrunch_ai-fd7404eb",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "body": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
       "score": null,
       "comments": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
       "age_hours": null
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-8f1e4a52",
+      "id": "techcrunch_ai-d811e798",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "body": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "score": null,
+      "comments": null,
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/techcrunch_ai",
+      "id": "techcrunch_ai-eb39ea8c",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "body": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "score": null,
+      "comments": null,
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/techcrunch_ai",
+      "id": "techcrunch_ai-3c03b1e6",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "body": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "score": null,
+      "comments": null,
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/techcrunch_ai",
+      "id": "techcrunch_ai-7541678b",
       "title": "Everyone is navigating AI security in real time — even Google",
       "body": "We're in the transition period -- all of us.",
       "score": null,
@@ -484,7 +664,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-6581149a",
+      "id": "techcrunch_ai-9de7ecc3",
       "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
       "body": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
       "score": null,
@@ -494,7 +674,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-45ab3441",
+      "id": "techcrunch_ai-d314a54d",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "body": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
       "score": null,
@@ -504,7 +684,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-c771bdde",
+      "id": "techcrunch_ai-f3c96a77",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "body": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
       "score": null,
@@ -514,7 +694,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-cf080c52",
+      "id": "techcrunch_ai-543b876c",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "body": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "score": null,
@@ -524,7 +704,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-c79d398a",
+      "id": "techcrunch_ai-262056ec",
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
       "body": "You can now disco ball-ify your entire Pixel home screen, says Google.",
       "score": null,
@@ -533,48 +713,18 @@
       "age_hours": null
     },
     {
-      "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-2486c8d",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "body": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "source": "rss/marktechpost",
+      "id": "marktechpost-4545c90d",
+      "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
+      "body": "<p>As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms — WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare — on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/\">Best Authentication Platforms for AI Agents and MCP Servers in 2026</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
       "comments": null,
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-71086dc2",
-      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-      "body": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
-      "score": null,
-      "comments": null,
-      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-7b03c416",
-      "title": "You can no longer Google the word ‘disregard’",
-      "body": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "score": null,
-      "comments": null,
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-62eed63b",
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "body": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "score": null,
-      "comments": null,
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "url": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
       "age_hours": null
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-2b07af6c",
+      "id": "marktechpost-5cd68904",
       "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
       "body": "<p>Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/\">WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -584,7 +734,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-73401a5d",
+      "id": "marktechpost-5723795d",
       "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
       "body": "<p>In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/\">Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -594,7 +744,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-b0754193",
+      "id": "marktechpost-b12c6f76",
       "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
       "body": "<p>StepFun, the Shanghai-based AI lab, released StepAudio 2.5 Realtime in May 2026 — an end-to-end real-time speech large language model with fully customizable persona capabilities. The model connects via a WebSocket API, supports Chinese and English, and ranked first across all five benchmark dimensions tested in April 2026, including an 80.41 human evaluation score and 82.18 on paralinguistic comprehension.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/\">StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -604,7 +754,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-97fba960",
+      "id": "marktechpost-382394b0",
       "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
       "body": "<p>Microsoft Research introduces Webwright, a terminal-native browser agent framework that replaces click-trace web automation with reusable Playwright scripts. Using a single agent loop across three modules and roughly 1,000 lines of code, Webwright powered by GPT-5.4 reaches 60.1% on the long-horizon Odysseys benchmark and 86.7% on Online-Mind2Web — the highest AutoEval score among open-sourced harness recipes.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/\">Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4&#8217;s 33.5%</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -614,7 +764,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-f4a2fcfa",
+      "id": "marktechpost-d9183512",
       "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
       "body": "<p>Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it outperforms Mamba-2, Gated DeltaNet, KDA, and Mamba-3 across language modeling, commonsense reasoning, and long-context retrieval — with the largest gains on RULER S-NIAH and multi-key needle retrieval.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/\">NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -624,7 +774,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-ae2cc210",
+      "id": "marktechpost-cb4a2644",
       "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
       "body": "<p>Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation → L1 Atom → L2 Scenario → L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Tencent's own benchmarks report a 61.38% token reduction and 51.52% relative pass-rate gain on WideSearch with OpenClaw, alongside PersonaMem accuracy moving from 48% to 76%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/\">Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -634,7 +784,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-11336aaa",
+      "id": "marktechpost-92d62306",
       "title": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
       "body": "<p>In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/\">Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -644,162 +794,12 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-3113739b",
+      "id": "marktechpost-50ca81f9",
       "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
       "body": "<p>Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/\">Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
       "comments": null,
       "url": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-f64482c8",
-      "title": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
-      "body": "<p>Perplexity has open-sourced Bumblebee, an internal security tool it uses to protect the developer systems behind its search product, Comet, and Computer. Bumblebee is a read-only inventory collector for macOS and Linux developer endpoints. It scans npm, PyPI, Go modules, MCP configs, editor extensions, and browser extensions — without invoking any package manager or running any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/\">Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-95195ada",
-      "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
-      "body": "<p>AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all terminal output captured live.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/\">A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator&#8217;s Garry Tan for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-a7da577e",
-      "title": "Prompt: AI’s Next Challenge Is Proving the Payoff",
-      "body": "Enterprises are facing growing pressure to justify massive AI investments amid rising operational costs and infrastructure demands.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/prompt-ai-s-next-challenge-proving-the-payoff",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-2c663ece",
-      "title": "Microsoft and EY Link Up to Speed Enterprise AI Adoption",
-      "body": "The longtime partners expanded their relationship.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/microsoft-ey-link-up-speed-enterprise-ai-adoption",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-3a34a642",
-      "title": "SpaceX IPO Filing Opens Up xAI Finances",
-      "body": "The filing, which includes Elon Musk’s AI company, is the first for the major generative labs, with Anthropic and OpenAI expected to follow soon with their own IPOs.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/spacex-ipo-filing-opens-up-xai-finances",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-f0ad4bfb",
-      "title": "Google Ads in AI Mode Will Help Businesses Be Discovered",
-      "body": "The changes enable businesses to engage with users directly through questions and real time interactions, improving lead generation and the overall advertising experience.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/google-ads-ai-mode-will-help-businesses-discovered",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-19a1d798",
-      "title": "Alibaba Aims for Independence with New AI Chips, Model",
-      "body": "The chip highlights the vendor’s move toward a full-stack AI strategy and its efforts to wean itself off Nvidia.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/alibaba-aims-independence-new-ai-chips-model",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-62ec6815",
-      "title": "GITEX AI EUROPE",
-      "body": "",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/events/gitex-ai-europe",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-d18f26ac",
-      "title": "Flurry of Deals Reaffirms Sizzling AI Market",
-      "body": "The deals involve some of the most prominent brands in generative AI.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/flurry-of-deals-reaffirms-sizzling-ai-market",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-75b60860",
-      "title": "Google Aims at Enterprise Cost Efficiency With Gemini 3.5 Flash",
-      "body": "The new model allows enterprises to spend less on tokens than they would previously, while one of the newly released agents competes against OpenClaw.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/generative-ai/google-aims-enterprise-cost-efficiency-with-gemini-3-5-flash",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-f1e259a7",
-      "title": "Blackstone to Invest $5B in AI Cloud Company Using Google TPUs",
-      "body": "The joint venture marks a new business for the tech giant as it enters the neocloud market.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/data-centers/blackstone-invest-5b-ai-cloud-company-using-google-tpus",
-      "age_hours": null
-    },
-    {
-      "source": "rss/aibusiness",
-      "id": "aibusiness-853dfc24",
-      "title": "Sub-Sea AI Data Center is Operating in China",
-      "body": "The project comes amid a search for alternatives to land-based data centers.",
-      "score": null,
-      "comments": null,
-      "url": "https://aibusiness.com/data-centers/sub-sea-ai-data-center-operating-in-china",
-      "age_hours": null
-    },
-    {
-      "source": "rss/smol_ai",
-      "id": "smol_ai-86437d19",
-      "title": "[AINews] We have moved!! Please help us move!",
-      "body": "<p>Hi Friends,</p>\n<p>For a little over a year, AINews has been functioning in MVP mode on <strong><a href=\"https://buttondown.com\" target=\"_blank\">Buttondown</a></strong>, which is an excellent email service by <strong>Justin Duke</strong>. We went far, far longer on it than we ever thought possible, including having our crappy signup page featured on Lex Fridman thanks to a <a href=\"https://x.com/swyx/status/1826349521041064012\" target=\"_blank\">@levelsio shoutout</a>!</p>\n<p>However, we wanted to improve our signup, deliverability, and web experience, and so have now moved to a custom Resend + Vercel + SmolTalk (coming soon™) stack. We'll be talking more about it at the next AI Engineer conference in SF in June.</p>\n<p>anyway, please mosey on over to <a href=\"https://news.smol.ai/\" target=\"_blank\">https://news.smol.ai/</a> where you'll immediately see the win of fast, faceted search!</p>\n<p class=\"empty-line\" style=\"height:16px; margin:0px !important;\"></p>\n<p>and <strong>look out for emails from \"news@smol.ai\" going forward</strong> - we have less email authority on that one so if you can <strong>pick us out of spam hell</strong> and drop us in the blessed IMPORTANT folder we'd be very grateful. </p>\n<p>More updates are coming! We are almost done paying down tech debt.</p>\n<p>—- your friends at smol.ai </p>",
-      "score": null,
-      "comments": null,
-      "url": "https://buttondown.com/ainews/archive/ainews-we-have-moved-please-help-us-move/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/smol_ai",
-      "id": "smol_ai-b6ebd4f8",
-      "title": "[AINews] Grok 3 & 3-mini now API Available",
-      "body": "<p><strong>X is all you need?</strong></p>\n<blockquote>\n<p>AI News for 4/17/2025-4/18/2025. We checked 9 subreddits, <a href=\"https://twitter.com/i/lists/1585430245762441216\" target=\"_blank\"><strong>449</strong> Twitters</a> and <strong>29</strong> Discords (<strong>211</strong> channels, and <strong>8290</strong> messages) for you. Estimated reading time saved (at 200wpm): <strong>650 minutes</strong>. You can now tag <a href=\"https://x.com/smol_ai\" target=\"_blank\">@smol_ai</a> for AINews discussions!</p>\n</blockquote>\n<p>Grok 3 (<a href=\"https://buttondown.com/ainews/archive/ainews-xai-grok-3-and-mira-muratis-thinking/\" target=\"_blank\">our coverage here</a>) has been out for a couple of months, but wasn't API available. Now it is, with a bonus baby brother!</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/4cd9fef6-82d9-47b6-b551-ca8f5ca4d15a.png?w=960&amp;fit=max\"/></p>\n<p>At 50 cents per output mtok, Grok 3 mini claims to be competitive with much larger frontier models, while displaying full reasoning traces:</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/c4689428-9550-4417-b9a6-eea53be4514f.png?w=960&amp;fit=max\"/></p>\n<p>You can get started here: https://docs.x.ai/docs/overview</p>\n<hr/>\n<p></p>\n<p><strong>Table of Contents</strong></p>\n<div class=\"toc\">\n<ul>\n<li><a href=\"#ai-twitter-recap\">AI Twitter Recap</a></li>\n<li><a href=\"#ai-reddit-recap\">AI Reddit Recap</a><ul>\n<li><a href=\"#rlocalllama-recap\">/r/LocalLlama Recap</a></li>\n<li><a href=\"#1-google-gemma-3-qat-quantization-and-ecosystem-launches\">1. Google Gemma 3 QAT Quantization and Ecosystem Launches</a></li>\n<li><a href=\"#2-novel-llm-benchmarks-videogamebench-real-time-csm-1b\">2. Novel LLM Benchmarks: VideoGameBench &amp; Real-time CSM 1B</a></li>\n<li><a href=\"#3-local-first-ai-tools-visualization-and-community-projects\">3. Local-first AI Tools, Visualization, and Community Projects</a></li>\n<li><a href=\"#",
-      "score": null,
-      "comments": null,
-      "url": "https://buttondown.com/ainews/archive/ainews-grok-3-3-mini-now-api-available/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/smol_ai",
-      "id": "smol_ai-ec5f081b",
-      "title": "[AINews] Gemini 2.5 Flash completes the total domination of the Pareto Frontier",
-      "body": "<p><strong>Gemini is all you need.</strong></p>\n<blockquote>\n<p>AI News for 4/16/2025-4/17/2025. We checked 9 subreddits, <a href=\"https://twitter.com/i/lists/1585430245762441216\" target=\"_blank\"><strong>449</strong> Twitters</a> and <strong>29</strong> Discords (<strong>212</strong> channels, and <strong>11414</strong> messages) for you. Estimated reading time saved (at 200wpm): <strong>852 minutes</strong>. You can now tag <a href=\"https://x.com/smol_ai\" target=\"_blank\">@smol_ai</a> for AINews discussions!</p>\n</blockquote>\n<p>It's fitting that as <a href=\"https://lmarena.github.io/blog/2025/new-beta/\" target=\"_blank\">LMArena becomes a startup</a>, Gemini puts out what is likely to be the last major lab endorsement of chat arena elos for <a href=\"https://developers.googleblog.com/en/start-building-with-gemini-25-flash/\" target=\"_blank\">their announcement of Gemini 2.5 Flash</a>:</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/cdf7584a-4ca0-4845-877c-41e15b0e2342.png?w=960&amp;fit=max\"/></p>\n<p>With pricing for 2.5 Flash seemingly chosen to be exactly on the line between 2.0 Flash and 2.5 Pro, it seems that the predictiveness of the Price-Elo chart since <a href=\"https://x.com/Smol_AI/status/1838663719536201790\" target=\"_blank\">it debuted on this newsletter last year</a> has reached its pinnacle usefulness, after being quoted by <a href=\"https://video.ethz.ch/speakers/d-infk/2025/spring/251-0100-00L.html\" target=\"_blank\">Jeff</a> and <a href=\"https://x.com/demishassabis/status/1908301867672560087\" target=\"_blank\">Demis</a>.</p>\n<p>Gemini 2.5 Flash introduces a new \"thinking budget\" that offers a bit more control over the Anthropic and OpenAI equivalents, though it is debatable whether THIS level of control is that useful (vs \"low/medium/high\"):</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/8186fcc3-8a81-498b-ad2c-5b89d14d931e.png?w=960&amp;fit=max\"/></p>\n<p>The <a hr",
-      "score": null,
-      "comments": null,
-      "url": "https://buttondown.com/ainews/archive/ainews-gemini-25-flash-completes-the-total/",
       "age_hours": null
     }
   ]

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Animated Gaussian Splatting: 5 Ways Devs Can Use It</title>
+<meta name="description" content="Animated Gaussian splatting is going mainstream. Here&#x27;s what the 3D rendering format is, why it matters, and 5 ways to try it today." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/animated-gaussian-splatting-5-ways-devs-can-use-it.html" />
+<meta property="og:title" content="Animated Gaussian Splatting: 5 Ways Devs Can Use It" />
+<meta property="og:description" content="Animated Gaussian splatting is going mainstream. Here&#x27;s what the 3D rendering format is, why it matters, and 5 ways to try it today." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/animated-gaussian-splatting-5-ways-devs-can-use-it.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Animated Gaussian Splatting: 5 Ways Devs Can Use It", "description": "Animated Gaussian splatting is going mainstream. Here's what the 3D rendering format is, why it matters, and 5 ways to try it today.", "datePublished": "2026-05-25T20:18:53.531448+00:00", "dateModified": "2026-05-25T20:18:53.531448+00:00", "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/animated-gaussian-splatting-5-ways-devs-can-use-it.html", "keywords": "gaussian splatting, animated gaussian splatting, 3D gaussian splatting tutorial, gaussian splatting tools, how to make gaussian splats"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">AI Tools</span></div>
+<h1>Animated Gaussian Splatting: 5 Ways Devs Can Use It</h1>
+<div class="meta">Published: 2026-05-25 | Category: AI Tools</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<h2>TL;DR</h2>
+<ul>
+<li>Animated Gaussian splatting, a real-time 3D rendering format, is spreading fast, and a viral r/singularity thread points out that adult content is again an early adopter of a new medium.</li>
+<li>The underlying method, 3D Gaussian Splatting, debuted in a 2023 SIGGRAPH paper and now powers tools from Luma AI, Polycam, and open-source projects like Nerfstudio and gsplat.</li>
+<li>Developers can capture, render, and embed splats today with free apps and a phone camera; the adult-content angle is a demand signal, not a technical barrier.</li>
+</ul>
+<h2>What happened</h2>
+<p>Animated Gaussian splatting moved from research demos to everyday content this year, and an r/singularity thread captured the moment with dark humor: the headline joked that being "one step closer to technological transcendence" mostly means the format is now used for animated adult content. The observation is less about the content itself and more about a familiar pattern in media history.</p>
+<p>The technology behind the joke is substantive. Gaussian splatting represents a scene as millions of tiny 3D "splats" — oriented, colored, semi-transparent ellipsoids — rather than traditional polygon meshes. The approach was introduced by Kerbl and colleagues at Inria and the Max Planck Institute in a 2023 SIGGRAPH paper titled "3D Gaussian Splatting for Real-Time Radiance Field Rendering." It renders photorealistic scenes at interactive frame rates, outperforming earlier Neural Radiance Field (NeRF) methods on speed while keeping comparable visual quality.</p>
+<p>The newer wrinkle is animation. Static splats capture a single moment; "4D" or dynamic Gaussian splatting extends the method to scenes that move over time, so a captured subject can be replayed, looped, or viewed from new angles. That capability is what unlocked the animated clips the Reddit thread referenced — and the adoption pattern mirrors VHS tapes, the early web, and VR headsets, formats whose first commercial traction often came from the adult industry before mainstream use caught up.</p>
+<h2>Why it matters</h2>
+<p>For indie hackers and developers, the adult-content angle is a market indicator. When a format reaches the point where it can be produced cheaply enough to monetize at the long tail, the tooling has usually matured enough for everyone else. That maturity is visible across the stack.</p>
+<p>On the capture side, Luma AI, Polycam, and Niantic's Scaniverse let anyone turn a phone video into a splat in minutes. On the rendering side, browser libraries such as Three.js and Babylon.js now ship Gaussian splat viewers that run on WebGL and WebGPU, meaning a 3D scene can load in a normal web page without a plugin or a game engine. On the editing side, tools like SuperSplat and Postshot handle cleanup, cropping, and export.</p>
+<p>The competitive picture is widening. Luma and Polycam compete on consumer capture quality, while open-source projects like Nerfstudio and the gsplat library give developers full control of training and rendering pipelines. Design tools including Spline have added splat support, and game engines are integrating it for environment capture. For e-commerce, real estate, and product visualization, splats offer photoreal 3D at a fraction of the modeling cost of hand-built assets — a practical reason the format is unlikely to stay niche.</p>
+<p>There is also a cost angle worth tracking. Splats render efficiently on consumer GPUs, and file sizes are dropping as compression methods improve. That lowers the barrier for solo builders who want interactive 3D on a site without a dedicated graphics team.</p>
+<h2>Try it yourself</h2>
+<p>1. <strong>Capture a first splat with a phone.</strong> Install Luma AI or Polycam, walk slowly around an object while filming, and let the cloud pipeline generate a splat. This is the fastest way to understand how coverage and lighting affect quality. 2. <strong>Run an open-source pipeline locally.</strong> Install Nerfstudio or the gsplat library on a machine with an NVIDIA GPU, feed it a set of images via COLMAP, and train a splat from scratch. This gives full control over resolution and training time and avoids per-export fees. 3. <strong>Clean up the result.</strong> Load the <code>.ply</code> or <code>.splat</code> file into the free SuperSplat editor (browser-based) or Postshot to crop floating artifacts, trim the background, and reduce splat count for the web. 4. <strong>Embed it on a web page.</strong> Use the Three.js Gaussian splat viewer or a standalone WebGL viewer to drop the scene into a site. Test load time on mobile and compress aggressively, since uncompressed splats can run to hundreds of megabytes. 5. <strong>Prototype a product use case.</strong> Pick one practical scenario — a 360-degree product shot, a real-estate room tour, or a portfolio piece — and build a single working demo end to end. A shippable demo is more useful for learning the limits than reading specs.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://reddit.com/r/singularity/comments/1tmtajd/were_one_step_closer_to_technological/" rel="noopener" target="_blank">r/singularity discussion thread</a></li>
+<li><a href="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/" rel="noopener" target="_blank">3D Gaussian Splatting for Real-Time Radiance Field Rendering (Inria)</a></li>
+<li><a href="https://docs.nerf.studio/" rel="noopener" target="_blank">Nerfstudio documentation</a></li>
+</ul>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "gaussian splatting" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=gaussian%20splatting" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://reddit.com/r/singularity/comments/1tmtajd/were_one_step_closer_to_technological/" rel="noopener" target="_blank">reddit/r/singularity</a></p>
+<div class="tags"><span>Gaussian Splatting</span><span>3D rendering</span><span>Generative AI</span><span>WebGL</span><span>NeRF</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>
