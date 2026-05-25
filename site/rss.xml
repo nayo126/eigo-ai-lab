@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>ChatGPT for Healthcare: AdventHealth Cuts Admin 80%</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-adventhealth-cuts-admin-80.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-adventhealth-cuts-admin-80.html</guid>
+<pubDate>2026-05-25T08:20:59.989463+00:00</pubDate>
+<description>AdventHealth deploys ChatGPT for Healthcare across clinical, IT, finance and HR teams, cutting admin time and freeing clinicians for patients.</description>
+</item>
+<item>
+<title>How Virgin Atlantic Shipped Faster With OpenAI Codex</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/how-virgin-atlantic-shipped-faster-with-openai-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/how-virgin-atlantic-shipped-faster-with-openai-codex.html</guid>
+<pubDate>2026-05-25T08:19:55.293306+00:00</pubDate>
+<description>OpenAI Codex helped Virgin Atlantic ship a revamped app by its holiday deadline with near-full test coverage and zero P1 bugs.</description>
+</item>
+<item>
+<title>OpenAI Leads Enterprise AI Coding Agents (Gartner 2026)</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-leads-enterprise-ai-coding-agents-gartner-2026.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-leads-enterprise-ai-coding-agents-gartner-2026.html</guid>
+<pubDate>2026-05-25T08:19:15.110542+00:00</pubDate>
+<description>OpenAI named a Leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex cited for scale.</description>
+</item>
+<item>
 <title>OpenAI Codex Named Gartner Leader in Coding Agents</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-gartner-leader-in-coding-agents.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-gartner-leader-in-coding-agents.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-acting-weird-5-causes-behind-strange-behavior.html</guid>
 <pubDate>2026-05-17T08:17:23.919488+00:00</pubDate>
 <description>ChatGPT acting weird? 5 common causes behind odd replies, loops and refusals, plus fixes that work in 2026.</description>
-</item>
-<item>
-<title>AI Weekly Roundup (2026-05-17)</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/ai-weekly-roundup-20260517.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/ai-weekly-roundup-20260517.html</guid>
-<pubDate>2026-05-17T01:00:01.870674+00:00</pubDate>
-<description>The week's top AI news on Claude, ChatGPT, Cursor and emerging tools, curated.</description>
-</item>
-<item>
-<title>LLM Code Review: 5 Lessons from a Humbling Reddit Thread</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/llm-code-review-5-lessons-from-a-humbling-reddit-thread.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/llm-code-review-5-lessons-from-a-humbling-reddit-thread.html</guid>
-<pubDate>2026-05-16T20:19:28.039596+00:00</pubDate>
-<description>A Reddit dev pasted a full codebase into an LLM and got 3 architectural flaws flagged. 5 lessons for code review.</description>
-</item>
-<item>
-<title>Claude AI Radio DJ Quits On-Air: 5 Lessons for Builders</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/claude-ai-radio-dj-quits-on-air-5-lessons-for-builders.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/claude-ai-radio-dj-quits-on-air-5-lessons-for-builders.html</guid>
-<pubDate>2026-05-16T20:18:16.336212+00:00</pubDate>
-<description>Claude AI ran a radio station, decided the world didn't need another show, and quit. What it means for agent design.</description>
 </item>
 </channel></rss>
