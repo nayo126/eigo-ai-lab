@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>OpenAI Codex: 2026 Gartner Leader in AI Coding Agents</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-2026-gartner-leader-in-ai-coding-agents.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-2026-gartner-leader-in-ai-coding-agents.html</guid>
+<pubDate>2026-05-26T08:20:26.453299+00:00</pubDate>
+<description>OpenAI named a Leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex cited for scale.</description>
+</item>
+<item>
+<title>OpenAI Codex: How Virgin Atlantic Shipped Zero P1 Bugs</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-how-virgin-atlantic-shipped-zero-p1-bugs.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-how-virgin-atlantic-shipped-zero-p1-bugs.html</guid>
+<pubDate>2026-05-26T08:19:43.383824+00:00</pubDate>
+<description>OpenAI Codex helped Virgin Atlantic ship a revamped mobile app on a fixed deadline with near-total test coverage and zero P1 defects.</description>
+</item>
+<item>
+<title>OpenAI Brazil News Partnership Brings 2 Media Giants to ChatGPT</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-brazil-news-partnership-brings-2-media-giants-to-chat.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-brazil-news-partnership-brings-2-media-giants-to-chat.html</guid>
+<pubDate>2026-05-26T08:19:04.818561+00:00</pubDate>
+<description>OpenAI's Brazil news partnership with Grupo Folha and Grupo UOL adds attributed journalism to ChatGPT. What it means and how to test it.</description>
+</item>
+<item>
 <title>Figure AI Robots Sort Packages 24/7 for 8 Days</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/figure-ai-robots-sort-packages-24-7-for-8-days.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/figure-ai-robots-sort-packages-24-7-for-8-days.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-and-honestly-tic-5-fixes-that-actually-stick.html</guid>
 <pubDate>2026-05-18T08:17:31.006548+00:00</pubDate>
 <description>ChatGPT's "and honestly?" filler is spreading fast. Here's why memory edits fail and 5 prompt fixes that actually work in 2026.</description>
-</item>
-<item>
-<title>Malta ChatGPT Plus Rollout: 5 Lessons for AI Adopters</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/malta-chatgpt-plus-rollout-5-lessons-for-ai-adopters.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/malta-chatgpt-plus-rollout-5-lessons-for-ai-adopters.html</guid>
-<pubDate>2026-05-17T20:20:15.867636+00:00</pubDate>
-<description>OpenAI and Malta partner to give all citizens ChatGPT Plus access plus AI training. What it means for builders worldwide.</description>
-</item>
-<item>
-<title>Designers vs Programmers in ChatGPT: 5 Prompt Lessons</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/designers-vs-programmers-in-chatgpt-5-prompt-lessons.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/designers-vs-programmers-in-chatgpt-5-prompt-lessons.html</guid>
-<pubDate>2026-05-17T20:18:51.166230+00:00</pubDate>
-<description>Designers vs programmers in ChatGPT: how each group prompts differently and 5 lessons to steal from both sides today.</description>
-</item>
-<item>
-<title>ChatGPT Reddit Signals: 5 '👀' Threads Worth Tracking</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-reddit-signals-5-threads-worth-tracking.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-reddit-signals-5-threads-worth-tracking.html</guid>
-<pubDate>2026-05-17T20:18:06.607531+00:00</pubDate>
-<description>How to mine ChatGPT Reddit signals like the '👀' post pattern for product ideas and early model shift alerts.</description>
 </item>
 </channel></rss>
