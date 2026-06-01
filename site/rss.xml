@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>How Braintrust Uses OpenAI Codex: 5 Workflow Wins</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html</guid>
+<pubDate>2026-06-01T20:20:41.201639+00:00</pubDate>
+<description>How Braintrust pairs OpenAI Codex with GPT-5.5 to turn customer requests into shipped code faster, plus tips to copy.</description>
+</item>
+<item>
+<title>Boston Children's AI Diagnoses 40+ Rare Disease Cases</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/boston-children-s-ai-diagnoses-40-rare-disease-cases.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/boston-children-s-ai-diagnoses-40-rare-disease-cases.html</guid>
+<pubDate>2026-06-01T20:19:41.603595+00:00</pubDate>
+<description>How Boston Children's Hospital uses OpenAI tools for AI rare disease diagnosis, cutting clinician workload and finding 40+ cases.</description>
+</item>
+<item>
+<title>OpenAI Stargate Michigan Data Center: 1GW, 5 Facts</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-stargate-michigan-data-center-1gw-5-facts.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-stargate-michigan-data-center-1gw-5-facts.html</guid>
+<pubDate>2026-06-01T20:19:00.074999+00:00</pubDate>
+<description>OpenAI breaks ground on a 1GW Stargate Michigan data center. What the AI infrastructure expansion means for jobs, compute, and developers.</description>
+</item>
+<item>
 <title>OpenAI Codex Named a 2026 Gartner Coding Agents Leader</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-a-2026-gartner-coding-agents-leader.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-a-2026-gartner-coding-agents-leader.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-dell-codex-partnership-5-enterprise-takeaways.html</guid>
 <pubDate>2026-05-19T08:19:28.043098+00:00</pubDate>
 <description>OpenAI and Dell bring Codex to hybrid and on-premise environments. 5 takeaways for enterprise AI coding teams.</description>
-</item>
-<item>
-<title>Databricks GPT-5.5 Agents: 5 Enterprise Workflow Takeaways</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/databricks-gpt-5-5-agents-5-enterprise-workflow-takeaways.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/databricks-gpt-5-5-agents-5-enterprise-workflow-takeaways.html</guid>
-<pubDate>2026-05-18T20:20:58.886409+00:00</pubDate>
-<description>Databricks brings GPT-5.5 to enterprise agent workflows after a new OfficeQA Pro benchmark high. 5 takeaways for builders.</description>
-</item>
-<item>
-<title>Malta ChatGPT Plus Partnership: 5 Things Citizens Can Do</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/malta-chatgpt-plus-partnership-5-things-citizens-can-do.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/malta-chatgpt-plus-partnership-5-things-citizens-can-do.html</guid>
-<pubDate>2026-05-18T20:20:02.327488+00:00</pubDate>
-<description>Malta ChatGPT Plus partnership gives every citizen Plus access plus AI training. Here's what it means and how to copy the playbook.</description>
-</item>
-<item>
-<title>OpenAI Dell Codex Partnership: 5 Takeaways for Devs</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-dell-codex-partnership-5-takeaways-for-devs.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-dell-codex-partnership-5-takeaways-for-devs.html</guid>
-<pubDate>2026-05-18T20:19:19.897419+00:00</pubDate>
-<description>OpenAI and Dell bring Codex to hybrid and on-premise enterprise environments. 5 practical takeaways for developers and indie builders.</description>
 </item>
 </channel></rss>

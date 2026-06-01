@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>How Braintrust Uses OpenAI Codex: 5 Workflow Wins</title>
+<meta name="description" content="How Braintrust pairs OpenAI Codex with GPT-5.5 to turn customer requests into shipped code faster, plus tips to copy." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html" />
+<meta property="og:title" content="How Braintrust Uses OpenAI Codex: 5 Workflow Wins" />
+<meta property="og:description" content="How Braintrust pairs OpenAI Codex with GPT-5.5 to turn customer requests into shipped code faster, plus tips to copy." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "How Braintrust Uses OpenAI Codex: 5 Workflow Wins", "description": "How Braintrust pairs OpenAI Codex with GPT-5.5 to turn customer requests into shipped code faster, plus tips to copy.", "datePublished": "2026-06-01T20:20:41.201639+00:00", "dateModified": "2026-06-01T20:20:41.201639+00:00", "author": {"@type": "Person", "name": "AI Lab Daily Editorial"}, "publisher": {"@type": "Organization", "name": "AI Lab Daily"}, "mainEntityOfPage": "https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html", "keywords": "OpenAI Codex, Codex GPT-5.5, AI coding agent workflow, turn customer requests into code, Codex for engineering teams"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Inter","Helvetica Neue",Arial,sans-serif;color:var(--fg);background:var(--bg);line-height:1.7;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI Lab Daily</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/categories.html">Categories</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">Shop</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">AI Tools</span></div>
+<h1>How Braintrust Uses OpenAI Codex: 5 Workflow Wins</h1>
+<div class="meta">Published: 2026-06-01 | Category: AI Tools</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p>OpenAI published a case study on how Braintrust, an evaluation and observability platform for LLM applications, uses OpenAI Codex paired with GPT-5.5 to move from customer requests to working code with less manual overhead. The takeaway for small engineering teams is concrete: a coding agent can absorb routine implementation work, freeing engineers to run more experiments in the same number of hours.</p>
+<h2>TL;DR</h2>
+<ul>
+<li>Braintrust engineers use OpenAI Codex with GPT-5.5 to translate customer feature requests into code and ship faster.</li>
+<li>The reported gain is throughput: the agent handles routine implementation so engineers run more experiments per day.</li>
+<li>Teams can copy the pattern today by scoping tasks tightly, wiring Codex into the repo, and reviewing every diff before merge.</li>
+</ul>
+<h2>What happened</h2>
+<p>OpenAI released a customer story describing how Braintrust runs its engineering workflow on Codex, OpenAI's coding agent, backed by the GPT-5.5 model. Braintrust builds tooling that teams use to evaluate, monitor, and debug AI products, so its own engineers work across a large, fast-moving codebase where customer requests arrive constantly.</p>
+<p>According to the case study, the core loop is turning those customer requests into code. Instead of an engineer manually scaffolding a change, the request is handed to Codex, which proposes an implementation against the existing repository. The engineer then reviews, refines, and merges. OpenAI frames the benefit as speed: engineers spend less time on boilerplate and routine edits and more time on the experiments that move the product forward.</p>
+<p>The pairing of Codex with GPT-5.5 is the technical detail OpenAI highlights. GPT-5.5 is positioned as the reasoning model behind the agent, handling multi-step coding tasks such as reading context across files, making coordinated edits, and producing changes that fit the surrounding code. The story is one of several OpenAI has published to show agentic coding being used inside real engineering organizations rather than in isolated demos.</p>
+<p>The excerpt summarizes the workflow plainly: Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster. The emphasis is on the experiment-velocity angle, which matters for a company whose product is itself about measuring and iterating on AI systems.</p>
+<h2>Why it matters</h2>
+<p>The competitive angle here is that coding agents are shifting from autocomplete to delegation. Earlier AI coding tools suggested the next line; Codex and similar agents take a described task and return a candidate change set. For a team like Braintrust, that changes where engineering hours go. If routine implementation is offloaded, the constraint becomes how many ideas a team can test, not how fast it can type.</p>
+<p>This also reinforces a broader market trend. OpenAI's Codex competes directly with Anthropic's Claude Code, Cursor's agent features, and GitHub Copilot's agent mode. Each vendor is racing to show that its agent works on production codebases, and customer case studies are now a key marketing surface. A company that builds evaluation tooling endorsing Codex carries extra weight, because that audience cares about measurable outcomes rather than novelty.</p>
+<p>There is a strategic signal for indie hackers and freelancers too. The workflow Braintrust describes does not require a large platform team. The same loop, customer request in, reviewed diff out, scales down to a solo developer handling client tickets. The differentiator is not access to the model but discipline around scoping and review.</p>
+<p>The risk to watch is over-delegation. Agents produce plausible code that can still be wrong, and a team that merges without scrutiny inherits subtle bugs. The case study's framing, where engineers review and refine, is the part worth copying as carefully as the speed claim.</p>
+<h2>Try it yourself</h2>
+<p>1. <strong>Scope one repeatable ticket type.</strong> Pick a category of work that arrives often, such as adding an API field, writing a migration, or covering a bug with a test. Hand that narrow task to Codex first rather than starting with sprawling features. 2. <strong>Give the agent real context.</strong> Point Codex at the actual repository and include the relevant files, conventions, and a clear acceptance criterion in the prompt. Vague requests produce vague diffs; a one-paragraph spec with the target files named produces usable changes. 3. <strong>Keep a human review gate.</strong> Treat every agent change like a pull request from a new teammate. Read the diff, run the test suite, and confirm the change matches the original customer request before merging. Never auto-merge. 4. <strong>Measure experiment throughput, not lines of code.</strong> Track how many distinct changes or experiments the team ships per week before and after adding the agent. Throughput is the metric the Braintrust story optimizes for, and it is the one that reflects real leverage. 5. <strong>Compare agents on your own tasks.</strong> Run the same ticket through Codex with GPT-5.5 and through a competing agent such as Claude Code. Whichever produces fewer review cycles on your codebase is the right default, regardless of benchmark scores.</p>
+<p>The underlying lesson is that the speed comes from the loop, not the model alone. A tightly scoped request, full repository context, and a strict review step are what turn a coding agent into reliable throughput. Teams that add those guardrails can adopt the same pattern without waiting for a platform of Braintrust's size.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://openai.com/index/braintrust" rel="noopener" target="_blank">How Braintrust turns customer requests into code with Codex (OpenAI)</a></li>
+<li><a href="https://openai.com/codex/" rel="noopener" target="_blank">OpenAI Codex</a></li>
+<li><a href="https://www.braintrust.dev/" rel="noopener" target="_blank">Braintrust</a></li>
+</ul>
+<aside class="cta-box"><h4>📚 Recommended reading on Amazon</h4><p>Search results for "OpenAI Codex" (Amazon Associates US tag pending)</p><a class="cta-btn" href="https://www.amazon.com/s?k=OpenAI%20Codex" rel="sponsored noopener" target="_blank">View on Amazon</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>Ad slot (Adsterra/Ezoic — pending)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://openai.com/index/braintrust" rel="noopener" target="_blank">rss/openai_blog</a></p>
+<div class="tags"><span>OpenAI Codex</span><span>GPT-5.5</span><span>AI coding agents</span><span>developer tools</span><span>Braintrust</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI Lab Daily — Claude / ChatGPT / Cursor — Daily Practical Guides<br>
+This site contains affiliate links (Amazon Associates). Purchases may earn us a small commission at no extra cost to you.
+</footer>
+</body>
+</html>
