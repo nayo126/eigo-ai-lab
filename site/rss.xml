@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>OpenAI Codex Plugins: 5 Ways Non-Devs Use It Now</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-ways-non-devs-use-it-now.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-ways-non-devs-use-it-now.html</guid>
+<pubDate>2026-06-02T20:20:26.269963+00:00</pubDate>
+<description>OpenAI Codex plugins, sites, and annotations now extend AI coding tools to analysts, marketers, designers, and investors.</description>
+</item>
+<item>
+<title>Travelers AI Claims: 24/7 Assistant Now Live Nationwide</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/travelers-ai-claims-24-7-assistant-now-live-nationwide.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/travelers-ai-claims-24-7-assistant-now-live-nationwide.html</guid>
+<pubDate>2026-06-02T20:19:46.925572+00:00</pubDate>
+<description>Travelers AI claims assistant, built with OpenAI, now guides US customers through filing 24/7. What it means and how to test the pattern.</description>
+</item>
+<item>
+<title>Anthropic, OpenAI, SpaceX IPO: Can Markets Absorb 3 Giants?</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/anthropic-openai-spacex-ipo-can-markets-absorb-3-giants.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/anthropic-openai-spacex-ipo-can-markets-absorb-3-giants.html</guid>
+<pubDate>2026-06-02T20:19:11.944562+00:00</pubDate>
+<description>Anthropic, OpenAI and SpaceX carry trillion-dollar valuations. Can public stockmarkets absorb an AI IPO of this scale?</description>
+</item>
+<item>
 <title>OpenAI Models and Codex on AWS: 5 Things to Know</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/openai-models-and-codex-on-aws-5-things-to-know.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-models-and-codex-on-aws-5-things-to-know.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/llms-txt-explained-5-things-to-know-in-2026.html</guid>
 <pubDate>2026-05-22T20:19:16.603175+00:00</pubDate>
 <description>Anna's Archive published a llms.txt-style note to AI crawlers. Here is how the standard works and how to add one to your own site today.</description>
-</item>
-<item>
-<title>OpenAI Codex on Dell: 5 Takeaways for Enterprise AI Coding</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-on-dell-5-takeaways-for-enterprise-ai-coding.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-on-dell-5-takeaways-for-enterprise-ai-coding.html</guid>
-<pubDate>2026-05-19T20:20:39.151583+00:00</pubDate>
-<description>OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments. Five takeaways for builders.</description>
-</item>
-<item>
-<title>OpenAI Content Provenance: 5 Things to Know in 2026</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-content-provenance-5-things-to-know-in-2026.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-content-provenance-5-things-to-know-in-2026.html</guid>
-<pubDate>2026-05-19T20:20:00.321894+00:00</pubDate>
-<description>OpenAI rolls out content provenance with C2PA Content Credentials, SynthID, and a verification tool. Here's what creators should do.</description>
-</item>
-<item>
-<title>Andrej Karpathy Joins Anthropic: 5 Things to Know</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/andrej-karpathy-joins-anthropic-5-things-to-know.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/andrej-karpathy-joins-anthropic-5-things-to-know.html</guid>
-<pubDate>2026-05-19T20:19:19.157500+00:00</pubDate>
-<description>Andrej Karpathy joins Anthropic from OpenAI. What the hire signals for Claude, AI research talent, and indie builders in 2026.</description>
 </item>
 </channel></rss>
