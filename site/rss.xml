@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>OpenAI Models and Codex on AWS: 5 Things to Know</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-models-and-codex-on-aws-5-things-to-know.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-models-and-codex-on-aws-5-things-to-know.html</guid>
+<pubDate>2026-06-02T08:20:06.388119+00:00</pubDate>
+<description>OpenAI frontier models and Codex are now generally available on AWS. What it means for teams already building on Amazon's cloud.</description>
+</item>
+<item>
+<title>OpenAI Stargate Michigan: 1GW Data Center Breaks Ground</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-stargate-michigan-1gw-data-center-breaks-ground.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-stargate-michigan-1gw-data-center-breaks-ground.html</guid>
+<pubDate>2026-06-02T08:19:35.609696+00:00</pubDate>
+<description>OpenAI Stargate Michigan data center breaks ground: a 1GW AI compute site promising jobs, community investment, and more capacity.</description>
+</item>
+<item>
+<title>OpenAI AI Policy: 5 Key Points on Advocacy in 2026</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-ai-policy-5-key-points-on-advocacy-in-2026.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-ai-policy-5-key-points-on-advocacy-in-2026.html</guid>
+<pubDate>2026-06-02T08:19:02.010272+00:00</pubDate>
+<description>OpenAI's AI policy and political advocacy stance explained: transparency, regulation support, and what it means for builders.</description>
+</item>
+<item>
 <title>How Braintrust Uses OpenAI Codex: 5 Workflow Wins</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/how-braintrust-uses-openai-codex-5-workflow-wins.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/andrej-karpathy-joins-anthropic-5-things-to-know.html</guid>
 <pubDate>2026-05-19T20:19:19.157500+00:00</pubDate>
 <description>Andrej Karpathy joins Anthropic from OpenAI. What the hire signals for Claude, AI research talent, and indie builders in 2026.</description>
-</item>
-<item>
-<title>Databricks GPT-5.5: 5 Wins for Enterprise AI Agents</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/databricks-gpt-5-5-5-wins-for-enterprise-ai-agents.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/databricks-gpt-5-5-5-wins-for-enterprise-ai-agents.html</guid>
-<pubDate>2026-05-19T08:21:04.718442+00:00</pubDate>
-<description>Databricks brings GPT-5.5 to enterprise agent workflows after a state-of-the-art OfficeQA Pro benchmark result.</description>
-</item>
-<item>
-<title>OpenAI Malta Partnership: ChatGPT Plus for All Citizens</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-malta-partnership-chatgpt-plus-for-all-citizens.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-malta-partnership-chatgpt-plus-for-all-citizens.html</guid>
-<pubDate>2026-05-19T08:20:16.267474+00:00</pubDate>
-<description>OpenAI Malta partnership brings ChatGPT Plus and AI training to all citizens. What it means for indie builders worldwide.</description>
-</item>
-<item>
-<title>OpenAI Dell Codex Partnership: 5 Enterprise Takeaways</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-dell-codex-partnership-5-enterprise-takeaways.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-dell-codex-partnership-5-enterprise-takeaways.html</guid>
-<pubDate>2026-05-19T08:19:28.043098+00:00</pubDate>
-<description>OpenAI and Dell bring Codex to hybrid and on-premise environments. 5 takeaways for enterprise AI coding teams.</description>
 </item>
 </channel></rss>
