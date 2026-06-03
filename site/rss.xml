@@ -5,6 +5,27 @@
 <description>Daily practical guides on Claude, ChatGPT, Cursor and the cutting-edge AI tools used by indie devs and freelancers.</description>
 <language>en</language>
 <item>
+<title>OpenAI Youth AI Safety: 5 Things Builders Should Know</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-youth-ai-safety-5-things-builders-should-know.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-youth-ai-safety-5-things-builders-should-know.html</guid>
+<pubDate>2026-06-03T08:20:21.169927+00:00</pubDate>
+<description>OpenAI youth AI safety plan calls for a global institute, new standards, and teen safeguards. What it means for builders.</description>
+</item>
+<item>
+<title>OpenAI Codex Plugins: 5 New Ways Teams Use AI</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-new-ways-teams-use-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-new-ways-teams-use-ai.html</guid>
+<pubDate>2026-06-03T08:19:43.543495+00:00</pubDate>
+<description>OpenAI Codex now ships plugins, sites, and annotations aimed at analysts, marketers, designers, and investors. What changed and how to try it.</description>
+</item>
+<item>
+<title>Travelers AI Claims: 24/7 Claim Assistant Goes Nationwide</title>
+<link>https://nayo126.github.io/eigo-ai-lab/posts/travelers-ai-claims-24-7-claim-assistant-goes-nationwide.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/travelers-ai-claims-24-7-claim-assistant-goes-nationwide.html</guid>
+<pubDate>2026-06-03T08:19:04.633196+00:00</pubDate>
+<description>Travelers built an AI claims assistant with OpenAI for 24/7 support and peak-demand scaling. What it means for insurance work.</description>
+</item>
+<item>
 <title>OpenAI Codex Plugins: 5 Ways Non-Devs Use It Now</title>
 <link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-ways-non-devs-use-it-now.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-plugins-5-ways-non-devs-use-it-now.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/figure-ai-humanoid-robots-log-200-hours-sorting-packages.html</guid>
 <pubDate>2026-05-23T08:17:11.102940+00:00</pubDate>
 <description>Figure AI says its humanoid robots ran 200 hours sorting packages. What the milestone means for warehouse automation.</description>
-</item>
-<item>
-<title>ChatGPT for Healthcare: 5 AdventHealth Lessons</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-5-adventhealth-lessons.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/chatgpt-for-healthcare-5-adventhealth-lessons.html</guid>
-<pubDate>2026-05-22T20:20:51.336403+00:00</pubDate>
-<description>AdventHealth deploys ChatGPT for Healthcare to cut admin work and return time to patient care. Five takeaways for builders.</description>
-</item>
-<item>
-<title>OpenAI Codex Named 2026 Gartner Leader for Enterprise Coding Agents</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-2026-gartner-leader-for-enterprise-coding.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/openai-codex-named-2026-gartner-leader-for-enterprise-coding.html</guid>
-<pubDate>2026-05-22T20:20:03.303632+00:00</pubDate>
-<description>OpenAI Codex earns Leader status in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents. What it means for devs.</description>
-</item>
-<item>
-<title>llms.txt Explained: 5 Things to Know in 2026</title>
-<link>https://nayo126.github.io/eigo-ai-lab/posts/llms-txt-explained-5-things-to-know-in-2026.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/eigo-ai-lab/posts/llms-txt-explained-5-things-to-know-in-2026.html</guid>
-<pubDate>2026-05-22T20:19:16.603175+00:00</pubDate>
-<description>Anna's Archive published a llms.txt-style note to AI crawlers. Here is how the standard works and how to add one to your own site today.</description>
 </item>
 </channel></rss>
