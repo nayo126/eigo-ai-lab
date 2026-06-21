@@ -62,5 +62,5 @@ The takeaway is not that AI diagnoses disease. It is that AI is now usable as a 
 
 ## Sources
 - [Boston Children's uses AI to unlock new diagnoses (OpenAI)](https://openai.com/index/boston-childrens-hospital)
-- [OpenAI for healthcare and enterprise](https://openai.com/enterprise)
+- [OpenAI for healthcare and enterprise](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/enterprise -->
 - [Google Med-Gemini and medical AI research](https://blog.google/technology/health/)
