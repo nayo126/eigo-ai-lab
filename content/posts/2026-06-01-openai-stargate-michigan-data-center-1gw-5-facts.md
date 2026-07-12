@@ -63,4 +63,4 @@ For developers and businesses that rely on OpenAI's API, more capacity generally
 
 - [Building the infrastructure for the Intelligence Age in Michigan — OpenAI](https://openai.com/index/stargate-michigan-data-center)
 - [Announcing The Stargate Project — OpenAI](https://openai.com/index/announcing-the-stargate-project/)
-- [OpenAI API documentation](https://platform.openai.com/docs)
+- [OpenAI API documentation](#) <!-- broken-link removed by broken-link-fixer: was https://platform.openai.com/docs -->
