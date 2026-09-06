@@ -63,6 +63,6 @@ Readers following AI markets or building on these platforms can take concrete st
 
 ## Sources
 
-- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI? — The Economist](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI? — The Economist](#) <!-- broken-link removed by broken-link-fixer: was https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai -->
 - [Archived version](https://archive.ph/nKEVw)
 - [Hacker News discussion](https://news.ycombinator.com/)
