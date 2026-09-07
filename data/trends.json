@@ -1,20 +1,30 @@
 {
-  "fetched_at": "2026-09-06T20:17:42.135600+00:00",
-  "count": 140,
+  "fetched_at": "2026-09-07T08:17:51.768615+00:00",
+  "count": 141,
   "items": [
     {
       "source": "hackernews",
-      "id": "hn-49563355",
-      "title": "Discovery of a new OpenAI agent message board",
-      "body": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a>",
-      "score": 2258,
-      "comments": 1574,
-      "url": "https://collusion.wiki/",
-      "age_hours": 56.4
+      "id": "hn-49585644",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "body": "",
+      "score": 641,
+      "comments": 404,
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "age_hours": 20.3
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-ac45b6b7",
+      "id": "openai_blog-89b19210",
+      "title": "Supporting independent journalism in Ukraine",
+      "body": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-19f247e4",
       "title": "An Alien Mind",
       "body": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "score": null,
@@ -24,7 +34,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-2f73b6aa",
+      "id": "openai_blog-8335dd1a",
       "title": "Research acceleration: The view inside OpenAI",
       "body": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "score": null,
@@ -34,7 +44,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-87ad56ef",
+      "id": "openai_blog-e02c482f",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "body": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "score": null,
@@ -44,7 +54,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-9415d75f",
+      "id": "openai_blog-5a805d7f",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "body": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "score": null,
@@ -54,7 +64,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-b124c4ef",
+      "id": "openai_blog-4ed28db0",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "body": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "score": null,
@@ -64,7 +74,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-3afd0bf7",
+      "id": "openai_blog-cc4210a0",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "body": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "score": null,
@@ -74,7 +84,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-d44c2c3f",
+      "id": "openai_blog-5c30d2f1",
       "title": "Safety overview: GPT-6 Astra",
       "body": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "score": null,
@@ -84,7 +94,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-d59675e4",
+      "id": "openai_blog-35f462ce",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "body": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "score": null,
@@ -94,7 +104,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-25ec678a",
+      "id": "openai_blog-8f6d8484",
       "title": "How AI-native companies turn workflows into operating capability",
       "body": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "score": null,
@@ -103,18 +113,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-f6be3e8d",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "body": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/path-to-astra",
-      "age_hours": null
-    },
-    {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-445ddff4",
+      "id": "google_ai_blog-a3759bca",
       "title": "Proactive cyber defense for governments and enterprises",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\">The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "score": null,
@@ -124,7 +124,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-6a58b094",
+      "id": "google_ai_blog-82615dd6",
       "title": "The latest AI news we announced in August 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from August 2026",
       "score": null,
@@ -134,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2c38dd39",
+      "id": "google_ai_blog-e375f493",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
       "score": null,
@@ -144,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f480cfe9",
+      "id": "google_ai_blog-abd355f7",
       "title": "3 new ways to plan and book travel in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
       "score": null,
@@ -154,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-eceb3bb",
+      "id": "google_ai_blog-38e9f47c",
       "title": "5 ways to upgrade your home decor with Google Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
       "score": null,
@@ -164,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f88b5580",
+      "id": "google_ai_blog-cbdc5ef1",
       "title": "5 new ways to level up your learning with Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">Here’s how you can use Google Search tools to study for classes and standardized tests.",
       "score": null,
@@ -174,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-49a31999",
+      "id": "google_ai_blog-bb77877b",
       "title": "Get closer to the game with Gemini and Pixel",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
       "score": null,
@@ -184,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-bae9cabd",
+      "id": "google_ai_blog-e6b74a2a",
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\">Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
       "score": null,
@@ -194,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-be9a8ad7",
+      "id": "google_ai_blog-fa0cee6f",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\">Google introduces AMIE for real-time clinical video consultations in simulated settings.",
       "score": null,
@@ -204,7 +204,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-68a617ba",
+      "id": "google_ai_blog-c0726fcb",
       "title": "Evolve your marketing with new AI tools",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\">Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
       "score": null,
@@ -214,7 +214,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-4ef490bc",
+      "id": "huggingface_blog-f37ee37c",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "body": "",
       "score": null,
@@ -224,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-8285d719",
+      "id": "huggingface_blog-280a719b",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
       "body": "",
       "score": null,
@@ -234,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-76ddeddd",
+      "id": "huggingface_blog-a09b9e5c",
       "title": "Give Your Coding Agents a Memory You Own",
       "body": "",
       "score": null,
@@ -244,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-74722891",
+      "id": "huggingface_blog-59497c3b",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "body": "",
       "score": null,
@@ -254,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-6e38ce76",
+      "id": "huggingface_blog-9226ce6e",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "body": "",
       "score": null,
@@ -264,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-40b24f74",
+      "id": "huggingface_blog-71b42db",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "body": "",
       "score": null,
@@ -274,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-43ed2dc9",
+      "id": "huggingface_blog-2ae2c1c5",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "body": "",
       "score": null,
@@ -284,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-a7e6e1a7",
+      "id": "huggingface_blog-68e664c0",
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "body": "",
       "score": null,
@@ -294,7 +294,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-d3191f93",
+      "id": "huggingface_blog-cd5504b1",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "body": "",
       "score": null,
@@ -304,7 +304,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-1bdc04e0",
+      "id": "huggingface_blog-f39cfcd5",
       "title": "Granite 4.2 LLMs: How They're Built",
       "body": "",
       "score": null,
@@ -314,7 +314,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-42db3ab8",
+      "id": "venturebeat_ai-99ff2c4c",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "body": "<p><i>Presented by Gravitee </i></p><hr/><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly?</p><p>Add a second agent to a system, and you&#x27;ve added one connection. Add a tenth, and you haven&#x27;t added ten connections, you&#x27;ve potentially added dozens, because now any agent might call any other, and each of those calls can trigger a call somewhere else. Complexity doesn&#x27;t creep up with agent headcount. It compounds with the number of paths between agents, and nobody&#x27;s job is to draw that graph. A support ticket that used to touch one system might now pass through four agents before a human ever lays eyes on it, and every one of those handoffs is a decision point nobody approved.</p><p>Most enterprise AI programs stall when the humans responsible for their agents lose the thread. Ask a security team a simple question: which agents can reach which systems, and watch the silence. Ask which agent triggered which downstream action three hops ago. More silence.</p><p>The instinct is to treat this like a checklist. Approve the agent. Log the agent. Move on. I&#x27;d argue this is the wrong instinct. A checklist checks a single point in time. Complexity runs across a chain, and you can&#x27;t govern a chain with a stack of one-time approvals any more than you can call a diet successful because you had a vegetable once.</p><p>So where does it actually break down?</p><p>Permissions creep first. Somebody builds an agent to summarize support tickets, grants it broad API access because scoping",
       "score": null,
@@ -324,7 +324,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-ea939b50",
+      "id": "venturebeat_ai-5894ff2c",
       "title": "When agents act on their own, governance has to live in the data layer",
       "body": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need rules in the context of the moment, because they don’t exercise overriding judgment of their own actions.</p><p>Consider a simple rule: Never open the car door. Followed literally, an agent could never get in or out of the car at all. But if you change the context (the car has just crashed, there’s a fire, someone is hurt and needs to get out), then the rule you actually want is the opposite. Context in the moment is everything. We are asking agents to do intelligent things; that requires intelligent rules.</p><p>The instinct is to add guardrails around the agent: instructions, policies, and monitoring layered above the model. Those mechanisms matter, but they share a structural limit: The car-door rule is plausible right up until the moment you actually have to decide whether to open the door. Controls at the agent layer are only as reliable as the agent’s output is predictable, and autonomy is precisely the property that makes that output hard to predict. Governance that depends on reviewing an action before it happens cannot keep pace with a system that acts in milliseconds, across many systems at once.</p><p>Governance has to become <i>executable</i>, and enforced where agents actually do their work: at the operational data layer, in the context, and exactly at the moment it is happening. </p><h2>The data layer is the enforcement point</h2><p>Age",
       "score": null,
@@ -334,7 +334,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-187708a",
+      "id": "venturebeat_ai-619d5049",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "body": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.&quot;</p><p>That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers.</p><p>&quot;Today&#x27;s operational complexity is no longer about adding more intelligence,&quot; he adds. &quot;It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.&quot;</p><h2>Why orchestration is replacing automation as the top CX priority</h2><p>As that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration.</p><p>&quot;Automation solves individual tasks, whereas orchestration",
       "score": null,
@@ -344,7 +344,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-47171d2c",
+      "id": "venturebeat_ai-3054c6a",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "body": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.</p><p>The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.</p><h2>An analyst who has sat on every side of the table</h2><p>Strechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.</p><p>Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, ",
       "score": null,
@@ -354,7 +354,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-fb5ca033",
+      "id": "venturebeat_ai-2f25cd93",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "body": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google/2026/\">I/O developer conference</a>, Google announced a <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">sweeping redesign</a> of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> and <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a> features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.</p><p>Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.</p><p>The announcement arrived alongside a blizzard of other news — new <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini models</a>, a personal <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">AI agent called Spark</a>, an intelligent <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/\">shopping cart</a>, a <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">reimagined developer platform</a> — but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future",
       "score": null,
@@ -364,7 +364,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-66a39889",
+      "id": "venturebeat_ai-cefe0803",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "body": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>, <a href=\"https://www.redpoint.com/\">Redpoint</a>, and <a href=\"https://www.unusual.vc/\">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=\"https://aws.amazon.com/\">Amazon Web Services</a> and <a href=\"https://cloud.google.com/\">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=\"https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/\">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable ",
       "score": null,
@@ -374,7 +374,7 @@
     },
     {
       "source": "rss/venturebeat_ai",
-      "id": "venturebeat_ai-372c8883",
+      "id": "venturebeat_ai-6fb76725",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "body": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for seriou",
       "score": null,
@@ -384,7 +384,17 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-40a1b4f1",
+      "id": "theverge_ai-1e28906",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "body": "",
+      "score": null,
+      "comments": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "age_hours": null
+    },
+    {
+      "source": "rss/theverge_ai",
+      "id": "theverge_ai-6752c85e",
       "title": "OpenAI admits to German wiki ‘incident’",
       "body": "",
       "score": null,
@@ -394,7 +404,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-a5af21c8",
+      "id": "theverge_ai-66b3d926",
       "title": "Roland is getting into generative AI music with Melody Flip",
       "body": "",
       "score": null,
@@ -404,7 +414,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-869e6e13",
+      "id": "theverge_ai-d6eae346",
       "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
       "body": "",
       "score": null,
@@ -414,7 +424,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-a084d087",
+      "id": "theverge_ai-d9c10986",
       "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "body": "",
       "score": null,
@@ -424,7 +434,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-9f2ff409",
+      "id": "theverge_ai-c840cfd3",
       "title": "Instagram’s AI detection is a mess (again)",
       "body": "",
       "score": null,
@@ -434,7 +444,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-4fa713cf",
+      "id": "theverge_ai-b7368e0",
       "title": "Why AI food looks like that",
       "body": "",
       "score": null,
@@ -444,7 +454,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-1097f573",
+      "id": "theverge_ai-2351a442",
       "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
       "body": "",
       "score": null,
@@ -454,7 +464,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-550056f",
+      "id": "theverge_ai-9f2eaae2",
       "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
       "body": "",
       "score": null,
@@ -464,7 +474,7 @@
     },
     {
       "source": "rss/theverge_ai",
-      "id": "theverge_ai-f8a8c41f",
+      "id": "theverge_ai-25ef4a50",
       "title": "This NAS company wants to run your local smart home",
       "body": "",
       "score": null,
@@ -473,18 +483,18 @@
       "age_hours": null
     },
     {
-      "source": "rss/theverge_ai",
-      "id": "theverge_ai-6ab13434",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "body": "",
+      "source": "rss/techcrunch_ai",
+      "id": "techcrunch_ai-39e7ef79",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "body": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "score": null,
       "comments": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "age_hours": null
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-faa11132",
+      "id": "techcrunch_ai-d80564d0",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "body": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "score": null,
@@ -494,7 +504,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-d69e0638",
+      "id": "techcrunch_ai-609005f6",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "body": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "score": null,
@@ -504,7 +514,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-c78941f7",
+      "id": "techcrunch_ai-5a8ca02",
       "title": "Hikers rescued after using Google Gemini for planning",
       "body": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
       "score": null,
@@ -514,7 +524,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-2dc699a4",
+      "id": "techcrunch_ai-c436d602",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "body": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       "score": null,
@@ -524,7 +534,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-c5df1ad1",
+      "id": "techcrunch_ai-ee3a1f03",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "body": "The round is being raised just months after the robot data startup exited from stealth.",
       "score": null,
@@ -534,7 +544,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-a2c6b33c",
+      "id": "techcrunch_ai-bd92aecf",
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "body": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
       "score": null,
@@ -544,7 +554,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-93af5a10",
+      "id": "techcrunch_ai-bd8cf947",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "body": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
       "score": null,
@@ -554,7 +564,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-ce1acd73",
+      "id": "techcrunch_ai-3d7c1997",
       "title": "What will Apple’s John Ternus era look like?",
       "body": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
       "score": null,
@@ -564,7 +574,7 @@
     },
     {
       "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-b17cbb1",
+      "id": "techcrunch_ai-dc17efbf",
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "body": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "score": null,
@@ -573,18 +583,38 @@
       "age_hours": null
     },
     {
-      "source": "rss/techcrunch_ai",
-      "id": "techcrunch_ai-842fa59f",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "body": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+      "source": "rss/marktechpost",
+      "id": "marktechpost-e38bc6d",
+      "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+      "body": "<p>Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/\">IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
       "comments": null,
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
       "age_hours": null
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-e6e8f48",
+      "id": "marktechpost-e8c2d112",
+      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+      "body": "<p>We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 51.3 pages per second indexing throughput on one L40S, and the text-retrieval gaps the authors acknowledge.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/\">H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+      "score": null,
+      "comments": null,
+      "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/marktechpost",
+      "id": "marktechpost-2ba1cfe2",
+      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+      "body": "<p>AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/\">Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
+      "score": null,
+      "comments": null,
+      "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "age_hours": null
+    },
+    {
+      "source": "rss/marktechpost",
+      "id": "marktechpost-68d33fd7",
       "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
       "body": "<p>Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/\">UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -594,7 +624,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-430a639f",
+      "id": "marktechpost-a5ed8c5",
       "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
       "body": "<p>Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/\">Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -604,7 +634,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-b5bf8bc9",
+      "id": "marktechpost-282d1927",
       "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
       "body": "<p>We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/\">GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -614,7 +644,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-2100d8db",
+      "id": "marktechpost-e81ce3c",
       "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
       "body": "<p>Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/\">Nous Research Adds One-Click Local Model Setup to Hermes Desktop</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -624,7 +654,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-3fbc90a9",
+      "id": "marktechpost-ff4825eb",
       "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
       "body": "<p>Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/\">Adaption Labs Introduces &#8216;Invent a Dataset&#8217;: Training Data Generated From a Task Description, Not a Seed Corpus</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -634,7 +664,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-c11da0ef",
+      "id": "marktechpost-d1e820cb",
       "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
       "body": "<p>Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/\">Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -644,7 +674,7 @@
     },
     {
       "source": "rss/marktechpost",
-      "id": "marktechpost-a45cf382",
+      "id": "marktechpost-43ebb37e",
       "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
       "body": "<p>We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minutes 48 seconds on a three-device cluster, and note why NVIDIA labels it unofficial rather than a benchmark. We also cover where PAIR will not help, including its single scheduling policy and its blindness to VRAM and model warmness.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/\">NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
       "score": null,
@@ -653,38 +683,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-4c49d665",
-      "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
-      "body": "<p>WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/\">Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-87b18da0",
-      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
-      "body": "<p>OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/\">OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a &#8216;Critical&#8217; Cyber Threshold</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
-      "age_hours": null
-    },
-    {
-      "source": "rss/marktechpost",
-      "id": "marktechpost-fbfe1194",
-      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
-      "body": "<p>Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/\">Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>",
-      "score": null,
-      "comments": null,
-      "url": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
-      "age_hours": null
-    },
-    {
       "source": "rss/aibusiness",
-      "id": "aibusiness-9937783f",
+      "id": "aibusiness-d5adfe5f",
       "title": "OpenAI Touts GPT-6 Astra as Its Safest Model, But It's Still Dangerous",
       "body": "With the new model. OpenAI addressed persistent safety problems, with a focus on cybersecurity.",
       "score": null,
@@ -694,7 +694,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-6a6fe466",
+      "id": "aibusiness-c9436b36",
       "title": "Prompt: Nvidia Moves up the AI Stack",
       "body": "Nvidia’s $12.9 billion Hugging Face acquisition extends the AI chip giant’s reach beyond compute, but preserving the platform’s openness will be key to its value.",
       "score": null,
@@ -704,7 +704,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-d51baf1a",
+      "id": "aibusiness-9ce1c05f",
       "title": "Enterprise AI Startup Wonderful Now Valued at $5B",
       "body": "In two years of existence, the vendor has completed three funding rounds totaling $800 million.",
       "score": null,
@@ -714,7 +714,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-7a486626",
+      "id": "aibusiness-5e626daf",
       "title": "With Hugging Face Acquisition, Nvidia Scores Big Win in AI Race",
       "body": "While most attention has been on model makers such as Anthropic, OpenAI and Google regarding which vendor will win the race, the star of the moment is Nvidia.",
       "score": null,
@@ -724,7 +724,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-37adf2f3",
+      "id": "aibusiness-e83f2ed1",
       "title": "What Google’s Release of Gemini 3.8 Says About the AI Market",
       "body": "With the new model, Google focused on long-horizon reasoning tasks, while also boosting cyber performance. It also introduced a cyber program similar to that of other AI vendors.",
       "score": null,
@@ -734,7 +734,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-8f4372a4",
+      "id": "aibusiness-bd7031a3",
       "title": "Google Pics Tool Creates Pro-Grade Images for Businesses",
       "body": "The AI image-generating tool works inside the vendor’s Workspace platform.",
       "score": null,
@@ -744,7 +744,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-1e16d6c",
+      "id": "aibusiness-c3cd10e4",
       "title": "Hugging Face Releases Programmable, Walking Duck Robot",
       "body": "The $399 small-scale robot is the company’s second desktop robot, after Reachy Mini in 2025.",
       "score": null,
@@ -754,7 +754,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-899d0806",
+      "id": "aibusiness-7d3921b6",
       "title": "Anthropic Joins AI Price War With Release of Fable 5.1",
       "body": "The vendor reduced cache read pricing for Fable 5.1 and said the model is similar to Mythos 5.1, with different safeguards.",
       "score": null,
@@ -764,7 +764,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-ef32956a",
+      "id": "aibusiness-7cdb3c53",
       "title": "Anthropic R&amp;D Slowdown Shows Need for Heightened AI Agent Security",
       "body": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
       "score": null,
@@ -774,7 +774,7 @@
     },
     {
       "source": "rss/aibusiness",
-      "id": "aibusiness-3c1c686d",
+      "id": "aibusiness-65556951",
       "title": "Nvidia and Semiconductor Vendor Expand Partnership",
       "body": "The move shows how the AI hardware giant is aiming to maintain its dominance, even through third parties.",
       "score": null,
@@ -784,7 +784,7 @@
     },
     {
       "source": "rss/smol_ai",
-      "id": "smol_ai-d7b1d933",
+      "id": "smol_ai-aeb1f5b0",
       "title": "[AINews] We have moved!! Please help us move!",
       "body": "<p>Hi Friends,</p>\n<p>For a little over a year, AINews has been functioning in MVP mode on <strong><a href=\"https://buttondown.com\" target=\"_blank\">Buttondown</a></strong>, which is an excellent email service by <strong>Justin Duke</strong>. We went far, far longer on it than we ever thought possible, including having our crappy signup page featured on Lex Fridman thanks to a <a href=\"https://x.com/swyx/status/1826349521041064012\" target=\"_blank\">@levelsio shoutout</a>!</p>\n<p>However, we wanted to improve our signup, deliverability, and web experience, and so have now moved to a custom Resend + Vercel + SmolTalk (coming soon™) stack. We'll be talking more about it at the next AI Engineer conference in SF in June.</p>\n<p>anyway, please mosey on over to <a href=\"https://news.smol.ai/\" target=\"_blank\">https://news.smol.ai/</a> where you'll immediately see the win of fast, faceted search!</p>\n<p class=\"empty-line\" style=\"height:16px; margin:0px !important;\"></p>\n<p>and <strong>look out for emails from \"news@smol.ai\" going forward</strong> - we have less email authority on that one so if you can <strong>pick us out of spam hell</strong> and drop us in the blessed IMPORTANT folder we'd be very grateful. </p>\n<p>More updates are coming! We are almost done paying down tech debt.</p>\n<p>—- your friends at smol.ai </p>",
       "score": null,
@@ -794,7 +794,7 @@
     },
     {
       "source": "rss/smol_ai",
-      "id": "smol_ai-93cd2e64",
+      "id": "smol_ai-68916ec2",
       "title": "[AINews] Grok 3 & 3-mini now API Available",
       "body": "<p><strong>X is all you need?</strong></p>\n<blockquote>\n<p>AI News for 4/17/2025-4/18/2025. We checked 9 subreddits, <a href=\"https://twitter.com/i/lists/1585430245762441216\" target=\"_blank\"><strong>449</strong> Twitters</a> and <strong>29</strong> Discords (<strong>211</strong> channels, and <strong>8290</strong> messages) for you. Estimated reading time saved (at 200wpm): <strong>650 minutes</strong>. You can now tag <a href=\"https://x.com/smol_ai\" target=\"_blank\">@smol_ai</a> for AINews discussions!</p>\n</blockquote>\n<p>Grok 3 (<a href=\"https://buttondown.com/ainews/archive/ainews-xai-grok-3-and-mira-muratis-thinking/\" target=\"_blank\">our coverage here</a>) has been out for a couple of months, but wasn't API available. Now it is, with a bonus baby brother!</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/4cd9fef6-82d9-47b6-b551-ca8f5ca4d15a.png?w=960&amp;fit=max\"/></p>\n<p>At 50 cents per output mtok, Grok 3 mini claims to be competitive with much larger frontier models, while displaying full reasoning traces:</p>\n<p><img alt=\"image.png\" class=\"newsletter-image\" src=\"https://assets.buttondown.email/images/c4689428-9550-4417-b9a6-eea53be4514f.png?w=960&amp;fit=max\"/></p>\n<p>You can get started here: https://docs.x.ai/docs/overview</p>\n<hr/>\n<p></p>\n<p><strong>Table of Contents</strong></p>\n<div class=\"toc\">\n<ul>\n<li><a href=\"#ai-twitter-recap\">AI Twitter Recap</a></li>\n<li><a href=\"#ai-reddit-recap\">AI Reddit Recap</a><ul>\n<li><a href=\"#rlocalllama-recap\">/r/LocalLlama Recap</a></li>\n<li><a href=\"#1-google-gemma-3-qat-quantization-and-ecosystem-launches\">1. Google Gemma 3 QAT Quantization and Ecosystem Launches</a></li>\n<li><a href=\"#2-novel-llm-benchmarks-videogamebench-real-time-csm-1b\">2. Novel LLM Benchmarks: VideoGameBench &amp; Real-time CSM 1B</a></li>\n<li><a href=\"#3-local-first-ai-tools-visualization-and-community-projects\">3. Local-first AI Tools, Visualization, and Community Projects</a></li>\n<li><a href=\"#",
       "score": null,
